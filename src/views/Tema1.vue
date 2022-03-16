@@ -311,37 +311,37 @@
       .col-lg-7.py-5
         img(src='@/assets/curso/tema1/img21.png') 
       .col-lg-4.py-5
-        a.anexo.mb-3(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
+        a.anexo.mb-3(href="https://www.youtube.com/watch?v=fFGx54eIMnE" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-link.svg")
           .anexo__texto
             p.mb-0 <b>Sesión 2 Pueblos en Contacto Inicial y Planes de Contingencia</b>
         
-        a.anexo.mb-3(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
+        a.anexo.mb-3(href="https://www.youtube.com/watch?v=hPpRkVMTbWA" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-link.svg")
           .anexo__texto
             p.mb-0 <b>Sesión 3 Pueblos en Contacto Inicial y Planes de Contingencia</b>
 
-        a.anexo.mb-3(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
+        a.anexo.mb-3(href="https://www.youtube.com/watch?v=VaMgH6_pTZc" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-link.svg")
           .anexo__texto
             p.mb-0 <b>Sesión 4 Pueblos en Contacto Inicial y Planes de Contingencia</b>
 
-        a.anexo.mb-3(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
+        a.anexo.mb-3(href="https://www.youtube.com/watch?v=bxEDfCmlZW8" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-link.svg")
           .anexo__texto
             p.mb-0 <b>Sesión 5 Pueblos en Contacto Inicial y Planes de Contingencia</b>
 
-        a.anexo.mb-3(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
+        a.anexo.mb-3(href="https://www.youtube.com/watch?v=Hga92yyfOdo" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-link.svg")
           .anexo__texto
             p.mb-0 <b>Sesión 6 Pueblos en Contacto Inicial y Planes de Contingencia</b>        
 
-        a.anexo.mb-0(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
+        a.anexo.mb-0(href="https://www.youtube.com/watch?v=PmuXdLrTKxI" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-link.svg")
           .anexo__texto

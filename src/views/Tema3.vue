@@ -145,7 +145,7 @@
 
     p.mb-5 Para finalizar con este tema se invita a consultar el siguiente video sobre los valores y principios en la atención integral en salud desde un enfoque intercultural.
 
-    .row.justify-content-center.mb-5
+    .row.justify-content-center
       .col-lg-10
         .tarjeta.color-primario.p-3(style="background-color: #CCD7E2")
           .row.justify-content-around.align-items-center
@@ -156,7 +156,7 @@
                 .col.mb-3.mb-sm-0
                   h3.mb-0 Video - Valores y principios en la atención integral en salud desde un enfoque intercultural              
                 .col-sm-auto
-                  a.boton.color-principal.texto-blanco(style="background-color: #F8D345", :href="obtenerLink('/downloads/prueba.pdf')" target="_blank" type="application/pdf")
+                  a.boton.color-principal.texto-blanco(style="background-color: #F8D345", href="https://www.youtube.com/watch?v=-DJqlpcyVak" target="_blank" type="application/pdf")
                     span(style="color: #12263F !important") Ver video 
                     i.fas.fa-file-download(style="color: #12263F !important")
 
