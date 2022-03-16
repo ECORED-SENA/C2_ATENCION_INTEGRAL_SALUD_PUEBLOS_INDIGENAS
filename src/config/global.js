@@ -98,136 +98,136 @@ export default {
           },
         ],
       },
-      {
-        nombreRuta: 'tema10',
-        icono: 'far fa-file-alt',
-        numero: '10',
-        titulo: 'Componentes',
-        desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.1',
-            titulo: 'Encabezados',
-            hash: 'encabezados',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.2',
-            titulo: 'Párrafos',
-            hash: 'parrafos',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.3',
-            titulo: 'Botones',
-            hash: 'botones',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.4',
-            titulo: 'Listas',
-            hash: 'listas',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.5',
-            titulo: 'Tablas',
-            hash: 'tablas',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.6',
-            titulo: 'Imagen',
-            hash: 'imagen',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.7',
-            titulo: 'Imagen Infográfica',
-            hash: 'imagen_infografica',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.8',
-            titulo: 'Video',
-            hash: 'video',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.9',
-            titulo: 'Bloques de texto destacado',
-            hash: 'texto_destacado',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.10',
-            titulo: 'Sliders',
-            hash: 'sliders',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.11',
-            titulo: 'Acordiones',
-            hash: 'acordiones',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.12',
-            titulo: 'Pestañas o Tabs',
-            hash: 'tabs',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.13',
-            titulo: 'Líneas de tiempo',
-            hash: 'lineas_tiempo',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.14',
-            titulo: 'Pasos',
-            hash: 'pasos',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.15',
-            titulo: 'Llamados a la acción',
-            hash: 'llamados_accion',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.16',
-            titulo: 'Tarjetas',
-            hash: 'tarjetas',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.17',
-            titulo: 'Tarjetas con número',
-            hash: 'tarjeta_numero',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.18',
-            titulo: 'Modal',
-            hash: 'modal',
-          },
-        ],
-      },
+      // {
+      //   nombreRuta: 'tema10',
+      //   icono: 'far fa-file-alt',
+      //   numero: '10',
+      //   titulo: 'Componentes',
+      //   desarrolloContenidos: true,
+      //   subMenu: [
+      //     {
+      //       icono: 'far fa-file-alt',
+      //       numero: '1.1',
+      //       titulo: 'Encabezados',
+      //       hash: 'encabezados',
+      //     },
+      //     {
+      //       icono: 'far fa-file-alt',
+      //       numero: '1.2',
+      //       titulo: 'Párrafos',
+      //       hash: 'parrafos',
+      //     },
+      //     {
+      //       icono: 'far fa-file-alt',
+      //       numero: '1.3',
+      //       titulo: 'Botones',
+      //       hash: 'botones',
+      //     },
+      //     {
+      //       icono: 'far fa-file-alt',
+      //       numero: '1.4',
+      //       titulo: 'Listas',
+      //       hash: 'listas',
+      //     },
+      //     {
+      //       icono: 'far fa-file-alt',
+      //       numero: '1.5',
+      //       titulo: 'Tablas',
+      //       hash: 'tablas',
+      //     },
+      //     {
+      //       icono: 'far fa-file-alt',
+      //       numero: '1.6',
+      //       titulo: 'Imagen',
+      //       hash: 'imagen',
+      //     },
+      //     {
+      //       icono: 'far fa-file-alt',
+      //       numero: '1.7',
+      //       titulo: 'Imagen Infográfica',
+      //       hash: 'imagen_infografica',
+      //     },
+      //     {
+      //       icono: 'far fa-file-alt',
+      //       numero: '1.8',
+      //       titulo: 'Video',
+      //       hash: 'video',
+      //     },
+      //     {
+      //       icono: 'far fa-file-alt',
+      //       numero: '1.9',
+      //       titulo: 'Bloques de texto destacado',
+      //       hash: 'texto_destacado',
+      //     },
+      //     {
+      //       icono: 'far fa-file-alt',
+      //       numero: '1.10',
+      //       titulo: 'Sliders',
+      //       hash: 'sliders',
+      //     },
+      //     {
+      //       icono: 'far fa-file-alt',
+      //       numero: '1.11',
+      //       titulo: 'Acordiones',
+      //       hash: 'acordiones',
+      //     },
+      //     {
+      //       icono: 'far fa-file-alt',
+      //       numero: '1.12',
+      //       titulo: 'Pestañas o Tabs',
+      //       hash: 'tabs',
+      //     },
+      //     {
+      //       icono: 'far fa-file-alt',
+      //       numero: '1.13',
+      //       titulo: 'Líneas de tiempo',
+      //       hash: 'lineas_tiempo',
+      //     },
+      //     {
+      //       icono: 'far fa-file-alt',
+      //       numero: '1.14',
+      //       titulo: 'Pasos',
+      //       hash: 'pasos',
+      //     },
+      //     {
+      //       icono: 'far fa-file-alt',
+      //       numero: '1.15',
+      //       titulo: 'Llamados a la acción',
+      //       hash: 'llamados_accion',
+      //     },
+      //     {
+      //       icono: 'far fa-file-alt',
+      //       numero: '1.16',
+      //       titulo: 'Tarjetas',
+      //       hash: 'tarjetas',
+      //     },
+      //     {
+      //       icono: 'far fa-file-alt',
+      //       numero: '1.17',
+      //       titulo: 'Tarjetas con número',
+      //       hash: 'tarjeta_numero',
+      //     },
+      //     {
+      //       icono: 'far fa-file-alt',
+      //       numero: '1.18',
+      //       titulo: 'Modal',
+      //       hash: 'modal',
+      //     },
+      //   ],
+      // },
     ],
     subMenu: [
-      {
-        icono: 'fas fa-sitemap',
-        titulo: 'Sintesis',
-        nombreRuta: 'sintesis',
-      },
-      {
-        nombreRuta: 'actividad',
-        icono: 'far fa-question-circle',
-        titulo: 'Actividad didáctica',
-        desarrolloContenidos: true,
-      },
+      // {
+      //   icono: 'fas fa-sitemap',
+      //   titulo: 'Sintesis',
+      //   nombreRuta: 'sintesis',
+      // },
+      // {
+      //   nombreRuta: 'actividad',
+      //   icono: 'far fa-question-circle',
+      //   titulo: 'Actividad didáctica',
+      //   desarrolloContenidos: true,
+      // },
       {
         nombreRuta: 'glosario',
         icono: 'fas fa-sort-alpha-down',
@@ -258,139 +258,121 @@ export default {
   referencias: [
     {
       referencia:
-        'Zlackman, C. (2012). 100 años de moda. Sistema de Bibliotecas SENA:',
+        'Aguilar-Peña, M., Tobar, M., García-Perdomo, H. (2020) Salud intercultural y el modelo de salud propio indígena.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=sena_aleph000060086&vid=SENA&search_scope=sena_completo&tab=sena_completo&lang=es_ES&context=L',
+        'http://www.scielo.org.co/pdf/rsap/v22n4/0124-0064-rsap-22-04-e187320.pdf',
     },
     {
       referencia:
-        'Castellanos, O., Fumeque A., y Ramirez D. (2011). Análisis de tendencias: de la información hacia la innovación. Universidad Nacional de Colombia. Sistema de Bibliotecas SENA:',
+        'Anuario de Derecho Constitucional Latinoamericano - Frank Semper (Alemania). (2006) Los derechos de los pueblos indígenas de Colombia en la jurisprudencia de la Corte Constitucional.',
+      link: 'https://www.corteidh.or.cr/tablas/R21731.pdf',
+    },
+    {
+      referencia:
+        'Aristizabal, V. (2013). Recomendaciones para el diseño e implementación del modelo de salud integral para la atención de los pueblos en aislamiento y contacto inicial. Amazon Conservation Team.',
+    },
+    {
+      referencia:
+        'BID - OTCA. (2018). Marco estratégico para la protección de los pueblos indígenas en aislamiento y contacto inicial. BOTCA.',
+    },
+    {
+      referencia:
+        'Corte Interamericana de Derechos Humanos - OEA. (2013). Pueblos indígenas en aislamiento voluntario y contacto inicial en Las Américas. Organización de los Estados Americanos.',
+      link: 'http://www.cidh.org',
+    },
+    {
+      referencia:
+        'Decreto 1953 de 2014. [Ministerio del Interior]. Por el cual se crea un régimen especial con el fin de poner en funcionamiento los territorios indígenas respecto de la administración de los sistemas propios de los pueblos indígenas. Octubre 7 de 2014.',
+    },
+    {
+      referencia:
+        'Decreto 1232 de 2018. [Ministerio del Interior]. Por el cual se adiciona el Capítulo 2, del Título 2, de la Parte 5, del Libro 2 del Decreto 1066 de 2015, Único Reglamentario del Sector Administrativo del Interior, para establecer medidas especiales de prevención y protección de los derechos de los Pueblos Indígenas en Aislamiento o estado natural y se crea y organiza el Sistema Nacional de Prevención y Protección de los derechos de los Pueblos Indígenas en Aislamiento o estado natural. Julio 17 de 2018. ',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000007947',
+        'http://es.presidencia.gov.co/normativa/normativa/DECRETO%201232%20DEL%2017%20DE%20JULIO%20DE%202018.pdf',
     },
     {
       referencia:
-        '<em>Harpersbazaar</em>. (2019). La ropa que eliges afecta a tu estado de ánimo y cerebro, según expertos. En arpersbazaar.mx.',
+        'Decreto Ley 4633 de 2011. [Presidencia de la República de Colombia]. Ley de víctimas. ',
     },
     {
       referencia:
-        'Lafuente M., Navarro J., y Navarro J. (2005). Ilustración de moda. Sistema de Bibliotecas SENA',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000025549',
+        'FUNAI. (2021). Survival Funai. Fundación Nacional del Indio (Brasil). ',
+      link: 'https://www.survival.es/sobre/funai',
     },
     {
       referencia:
-        'Laver, J.,  Albizua, H., y Fortea, B. (1990). Breve historia del traje y la moda. Sistema de Bibliotecas SENA.',
+        'Ministerio de Ambiente y Desarrollo Sostenible - Parques Naturales de Colombia. (2018). Resolución 0156 de 2018. Imprenta Nacional.',
     },
     {
       referencia:
-        'Navarro, J.,  y Lafuente, M. (2010). Ilustración de moda: dibujo plano. Sistema de Bibliotecas SENA:',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/q6j6k0/sena_aleph000023241',
+        'Ministerio de Ambiente y Desarrollo Sostenible - Parques Naturales de Colombia. (2018). Resolución 1256 de 2018. Imprenta Nacional.',
     },
     {
       referencia:
-        'Áciedad Americana de Ensayos y Materiales (ASTM). (2003). Textiles. Editorial Staff. [Book]. Sistema de Bibliotecas SENA.',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000051551',
+        'Ministerio de Salud y Protección Social. (2021). Lineamientos para la atención en salud de pueblos en aislamiento y contacto inicial, versión preliminar. ',
     },
     {
       referencia:
-        'Szkutnicka, B., Cuenca, C., Koyama, A. (2010). El dibujo técnico de moda paso a paso. Sistema de Bibliotecas SENA.',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000057728',
+        'OACNUDH - IWGIA. (2007). Pueblos indígenas en aislamiento voluntario y contacto inicial en la Amazonía y El Gran Chaco. IWGIA.',
+    },
+    {
+      referencia:
+        'OACNUDH. (2012). Directrices de protección para los pueblos en aislamiento y contacto inicial de la Región Amazónica, El Gran Chaco y la Región Oriental del Paraguay. OACNUDH.',
+    },
+    {
+      referencia:
+        'Organización de Estados Americanos - OEA. (2016). Declaración americana sobre los derechos de los pueblos indígenas. OEA.',
+    },
+    {
+      referencia:
+        'Organización de las Naciones Unidas. (1992). Convenio sobre la diversidad biológica. Naciones Unidas.',
+    },
+    {
+      referencia:
+        'Organización del Tratado de Cooperación Amazónica - OTCA. (2012). Principios y directrices para la atención en salud de pueblos en aislamiento y contacto inicial. OTCA - BID.',
     },
   ],
   glosario: [
     {
-      termino: 'MoodBoard',
+      termino: 'Autonomía',
       significado:
-        'su traducción literal es mapa de inspiración y aunque su uso está muy asociado al ámbito de la decoración de interiores o la moda, <br/>realmente se utiliza en entornos creativos muy diversos, desde el diseño de productos o servicios al audiovisual o el diseño gráfico.',
+        'Es la autodeterminación de los pueblos indígenas para decidir sus propias normas y tomar decisiones en defensa de las tradiciones culturales y organizativas.',
     },
     {
-      termino: '<em>Suftware</em>',
+      termino: 'Interculturalidad',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'En el marco de la salud propia indígena es la comunicación recíproca para armonizar los diferentes saberes indígenas y occidentales.',
     },
     {
-      termino: 'Pirognóstico',
+      termino: 'Sabiduría ancestral',
       significado:
-        'ensayo sin componentes reactivos, quiere decir, reconocimiento de los componentes, mediante la aplicación adecuada del fuego.',
+        'Es la herencia en conocimiento propio que se transmite de generación en generación para la pervivencia física y cultural de los pueblos indígenas.',
     },
     {
-      termino: '<em>Áectores</em>',
-      significado:
-        'en software de diseño, son líneas que se crean y permiten, expandir, modificar, al tamaño que sea sin pixelarse porque se unen por coordenadas matemáticas del programa y no se generan por números fijos.',
-    },
-    {
-      termino: 'Moda',
-      significado:
-        'hábito repetitivo que identifica a una persona, una especie de presión social, que debe consumir, utilizar o hacer.',
-    },
-    {
-      termino: 'Diseña',
-      significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
-    },
-    {
-      termino: 'DIseño',
-      significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
-    },
-    {
-      termino: 'Tipología',
-      significado:
-        'estudio de los tipos o modelos que se usan para clasificar en diversas ciencias o disciplinas.',
-    },
-    {
-      termino: 'Bidimensional',
-      significado:
-        'que se representa según su altura y su anchura y no su profundidad.',
-    },
-    {
-      termino: 'Interés Inferior del menor',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
-    },
-    {
-      termino: 'Interseccionalidad',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
-    },
-    {
-      termino: 'Interés superior del menor',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+      termino: 'Salud propia',
+      significado: 'Armonía y equilibrio de cuerpo, mente y espíritu.',
     },
   ],
   complementario: [
     {
       texto:
-        'BIC., (2015). “2 minutos para entender el desarrollo sostenible – Spanish”',
-      tipo: 'Video',
-      link: 'https://www.google.com/',
+        'BID - OTCA. (2018). Marco estratégico para la protección de los pueblos indígenas en aislamiento y contacto inicial.  OTCA. ',
+      tipo: 'Informe',
+      descarga:
+        '/downloads/Marco-Estrategico-para-la-Proteccion-de-los-PIACI.pdf',
     },
     {
       texto:
-        'Arnold, M. y Osorio, F., (1998). Introducción a los conceptos básicos de la Teoría general de sistemas. Cinta moebio 3: 40-49',
-      tipo: 'Página web',
-      descarga: '/downloads/prueba.pdf',
+        'Corte Interamericana de Derechos Humanos - OEA. (2013). Pueblos Indígenas en aislamiento voluntario y contacto inicial en las Américas. Organización de los Estados Americanos. ',
+      tipo: 'Informe',
+      descarga:
+        '/downloads/informe-pueblos-indigenas-aislamiento-voluntario.pdf',
     },
     {
       texto:
-        'Balboa, C. y Dominguez, M. (2014). Economía circular como marco para el ecodiseño: el modelo ECO-3. Informador Técnico (Colombia) Volumen 78, No. 1. Pág. 52-90.',
-      tipo: 'Artículo científico',
-      link: 'https://www.google.com/',
-    },
-    {
-      texto: 'Economía de Rosquilla. (s.f.).',
-      tipo: 'Página web',
-      descarga: ['/downloads/prueba.pdf', '/downloads/prueba.pdf'],
-    },
-    {
-      texto: '2 minutos para entender el desarrollo sostenible – Spanish',
-      tipo: 'Video',
-      link: ['https://www.google.com/', 'https://www.google.com/'],
+        'Decreto 1232 de 2018. [Ministerio del Interior]. Por el cual se adiciona el Capítulo 2, del Título 2, de la Parte 5, del Libro 2 del Decreto 1066 de 2015, Único Reglamentario del Sector Administrativo del Interior, para establecer medidas especiales de prevención y protección de los derechos de los Pueblos Indígenas en Aislamiento o estado natural y se crea y organiza el Sistema Nacional de Prevención y Protección de los derechos de los Pueblos Indígenas en Aislamiento o estado natural. Julio 17 de 2018. ',
+      tipo: 'Normatividad',
+      descarga: '/downloads/DECRETO 1232 DEL 17 DE JULIO DE 2018.pdf',
     },
   ],
   creditos: {
@@ -406,7 +388,7 @@ export default {
         nombre: 'Rafael Neftalí Lizcano Reyes',
         cargo: 'Asesor metodológico y pedagógico',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
     ],
     desarrolloProducto: [
@@ -417,50 +399,70 @@ export default {
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Leyson Fabian Castaño Perez',
-        cargo: 'Soporte organizacional',
-        centro: 'Centro de Comercio y Servicios Regional Tolima',
-      },
-      {
-        nombre: ['Nombre 1', 'Nombre 2'],
-        cargo: 'Diseño web',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
-      },
-      {
-        nombre: 'Nombre',
-        cargo: 'Desarrollo Front-End',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
-      },
-      {
-        nombre: 'Nombre',
+        nombre: 'Ángela María Maldonado Jaime',
         cargo: 'Producción audiovisual',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
-        cargo: 'Validación de diseño y contenido',
+        nombre: 'Camilo Andrés Bolaño Rey',
+        cargo: 'Producción audiovisual',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Carmen Alicia Martínez Torres',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Estefani Daniela Gallo Cortés ',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Gilberto Junior Rodríguez Rodríguez',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Jaime Enrique Díaz Reyes ',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Lady Adriana Ariza Luque',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Laura Gisselle Murcia Pardo',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Wilson Andrés Arenales Cáceres',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Zuleidy María Ruíz Torres',
+        cargo: 'Producción audiovisual',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
     ],
     gestoresRepositorio: [
       {
-        nombre: 'Álvaro Andrés Angarita Ramirez',
-        cargo: 'Validación y vinculación en plataforma LMS',
-        centro: 'Centro de Comercio y Servicios Regional Tolima',
-      },
-      {
-        nombre: 'Daniel Felipe Varón Molina',
-        cargo: 'Validación y vinculación en plataforma LMS',
-        centro: 'Centro de Comercio y Servicios Regional Tolima',
-      },
-      {
         nombre: 'Milady Tatiana Villamil Castellanos',
         cargo: 'Validación y vinculación en plataforma LMS',
-        centro: 'Centro de Comercio y Servicios Regional Tolima',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
     ],
   },
