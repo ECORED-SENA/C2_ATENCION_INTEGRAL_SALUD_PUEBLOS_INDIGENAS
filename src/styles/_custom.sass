@@ -31,8 +31,30 @@ caption
     right: 80%;
     bottom: 0%;
 
+.cajon-tema1
+  position: relative;
+  &::after
+    background-color: #E8E8E8;
+    content: '';
+    display: block;
+    position: absolute;
+    opacity: 1;
+    top: 0;
+    left: 0;
+    right: 80%;
+    bottom: 0%;
+
 .mibloque.bloque-texto-b.color-primario:before 
   background-color: #FEF0DC;
+
+.mibloque2.bloque-texto-b.color-primario:before 
+  background-color: #FEE7C5;
+
+.mibloque3.bloque-texto-b.color-primario
+  &::before 
+    background-color: #FFE8E2 !important            
+    left: 0%;
+    right: 70%;
 
 .cajon.color-acento-contenido 
   background-color: #F4F4F4
@@ -44,6 +66,69 @@ caption
   position: relative;
   i     
     color: #E79A81;
+
+.slyder-a__tipo-a .slyder-a__bullets    
+  bottom: 0px;    
+
+.slider1   
+  .slyder-a__bullets__item
+    border: 3px solid #9B4329
+    
+  .slyder-a__bullets__item--active 
+    background-color: #F7724A
+    border: 3px solid #9B4329
+
+.tab1
+  .tabs-a__tab
+    background-color: #FEE7C5 !important
+  .tabs-a__tab__selected
+    z-index: 10000
+    background-color: #F7724A !important
+    color: white !important
+    width: 110% !important
+    &::before
+      background-color: #F7724A !important
+  .tabs-a__content-item
+    padding-left: 3%
+    .tarjeta
+      background-color: #DEDEDA
+
+.titulo-segundo.color-secundario:after 
+    border-left-color: #F7724A;
+
+.bloque1.bloque-texto-b.color-acento-contenido:before 
+    background-color: #E8E8E8;
+
+.bloque1.bloque-texto-b:before     
+    top: 0%;
+    bottom: 0;
+    left: 0%;
+    right: 75%;
+
+.tema1
+  .tarjeta-avatar-b
+    .tarjeta--azul
+      background-color: #EFEFEF;
+    
+    .tarjeta-avatar-b__img 
+      min-width: 13%;
+      max-width: 13%;
+
+    .tarjeta
+      margin-left: -7%;
+      padding-left: 7%;
+
+.tema-1.cajon.color-secundario
+  background-color: #FAEAE6;
+  &::before 
+    background-color: #EB8B70;
+
+
+
+
+
+
+
     
 
 

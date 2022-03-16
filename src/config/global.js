@@ -26,7 +26,20 @@ export default {
         numero: '1',
         titulo: 'Pueblos en aislamiento',
         desarrolloContenidos: true,
-        subMenu: [],
+        subMenu: [
+          {
+            icono: 'far fa-file-alt',
+            numero: '1.1',
+            titulo: 'Referenciación del territorio',
+            hash: 't_1_1',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '1.2',
+            titulo: 'Patrones culturales',
+            hash: 't_1_2',
+          },
+        ],
       },
       {
         nombreRuta: 'tema2',
