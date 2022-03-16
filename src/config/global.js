@@ -82,7 +82,21 @@ export default {
         numero: '4',
         titulo: 'Tema 4',
         desarrolloContenidos: true,
-        subMenu: [],
+        subMenu: [
+          {
+            icono: 'far fa-file-alt',
+            numero: '4.1',
+            titulo:
+              'Atención primaria en salud y recomendaciones de atención PIACI',
+            hash: 't_4_1',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '4.2',
+            titulo: 'Recomendaciones primarias para atención de emergencia',
+            hash: 't_4_2',
+          },
+        ],
       },
       {
         nombreRuta: 'tema10',
