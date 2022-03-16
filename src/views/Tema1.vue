@@ -82,7 +82,7 @@
     Separador
     p.mb-5 A continuación, se presentan las definiciones establecidas en el Decreto 1232 de 2018 para abordar los pueblos de aislamiento (Ministerio del Interior de Colombia, 2018):
    
-    .tab1.mb-5
+    .tab1
       TabsA.color-secundario.mb-5
         .row.tarjeta.p-4.align-items-center(titulo="Autodeterminación y no contacto")
           .col-lg-5
@@ -196,8 +196,6 @@
               h4 Vulnerabilidad inmunológica y demográfica
               p.mb-0 las comunidades en aislamiento o en contacto inicial son fisiológica e inmunológicamente vulnerables a la carga microbiana de la población dominante o hegemónica por su poco contacto con otras comunidades indígenas y no indígenas, esta condición los hace sensibles inmunológicamente al contagio y desarrollo de patogenicidad asociada a enfermedades ajenas a su hábitat, aumentando la posibilidad de agravarse y morir.
           
-
-    h1 Se debe programar el tab para el otro lado
     
     Separador
 
