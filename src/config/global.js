@@ -45,9 +45,28 @@ export default {
         nombreRuta: 'tema2',
         icono: 'far fa-file-alt',
         numero: '2',
-        titulo: 'Tema 2',
+        titulo: 'Marco normativo y políticas públicas',
         desarrolloContenidos: true,
-        subMenu: [],
+        subMenu: [
+          {
+            icono: 'far fa-file-alt',
+            numero: '2.1',
+            titulo: 'Referenciación del territorio',
+            hash: 't_2_1',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '2.2',
+            titulo: 'Mecanismos de supervisión, coordinación y articulación',
+            hash: 't_2_2',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '2.3',
+            titulo: 'Normatividad nacional en salud',
+            hash: 't_2_3',
+          },
+        ],
       },
       {
         nombreRuta: 'tema3',
