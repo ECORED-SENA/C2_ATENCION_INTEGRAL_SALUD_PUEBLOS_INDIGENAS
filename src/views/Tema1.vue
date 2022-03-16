@@ -309,7 +309,7 @@
       .col-lg-6
         img(src='@/assets/curso/tema1/img20.png') 
 
-    .row.justify-content-center.align-items-center.mb-5(style="background-color: #F2F1EA")
+    .row.justify-content-center.align-items-center(style="background-color: #F2F1EA")
       .col-lg-7.py-5
         img(src='@/assets/curso/tema1/img21.png') 
       .col-lg-4.py-5
@@ -349,6 +349,8 @@
           .anexo__texto
             p.mb-0 <b>Sesión 7 Pueblos en Contacto Inicial y Planes de Contingencia</b>
       .col-lg-1
+
+    Separador
 </template>
 
 <script>

@@ -280,7 +280,7 @@
               .col-lg-11
                 h4.mb-0 <b>Aportes de los resguardos indígenas, quienes como mínimo aportarán el 10%, excepto aquellos que no reciban recursos del Sistema General de Participaciones o que estos sean insuficientes. </b>
 
-    .row.mb-5.justify-content-center.align-items-center
+    .row.justify-content-center.align-items-center
       .col-6
         p.mb-5 Ahora bien, la identificación de la población indígena para la asignación de subsidios se efectuará de conformidad con lo establecido en el Artículo 5º de la Ley 691 de 2001. Es de resaltar que para el caso que la población beneficiaria identificada a través del listado censal no coincida con la población indígena certificada por el DANE, la autoridad territorial lo verificará y validará de manera conjunta con la autoridad tradicional para efectos del registro individual en la base de datos de afiliación al régimen subsidiado (Defensoría del Pueblo, 2014).
         h4.mb-5 Algo para resaltar de la ley y la subsecuente jurisprudencia al respecto es que ha permitido que las comunidades indígenas podrán afiliarse al régimen subsidiado de manera colectiva y preferencialmente a una ARSI (Administradoras Indígenas de Salud), según lo previsto en el Artículo 17 de la Ley 691 de 2001.
@@ -298,6 +298,8 @@
               img(src='@/assets/curso/tema2/img21.svg')    
             .tarjeta.tarjeta--azul.d-flex.align-items-center
               h4.p-4.mb-0 Derecho Internacional Humanitario
+
+    Separador
 </template>
 
 <script>

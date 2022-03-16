@@ -72,7 +72,7 @@ export default {
         nombreRuta: 'tema3',
         icono: 'far fa-file-alt',
         numero: '3',
-        titulo: 'Tema 3',
+        titulo: 'Asistencia, atención y reparación integral',
         desarrolloContenidos: true,
         subMenu: [],
       },
