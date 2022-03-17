@@ -80,7 +80,7 @@ export default {
         nombreRuta: 'tema4',
         icono: 'far fa-file-alt',
         numero: '4',
-        titulo: 'Tema 4',
+        titulo: 'Orientaciones para la atención diferencial PIACI',
         desarrolloContenidos: true,
         subMenu: [
           {
