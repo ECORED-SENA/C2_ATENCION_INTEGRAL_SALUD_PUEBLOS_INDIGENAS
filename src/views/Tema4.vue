@@ -140,7 +140,9 @@
 
     //- figure.mb-5
     //-   img(src='@/assets/curso/tema4/img09.svg')  
-    
+
+    div.p-4(style="background-color: #EAAD9B; border-radius: 50px")   
+      p.mb-0 <b>Apropiación del marco normativo y de políticas públicas para la protección y atención integral en salud de los pueblos indígenas en aislamiento y contacto inicial</b>
 
     Separador                   
 </template>
