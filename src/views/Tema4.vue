@@ -138,11 +138,9 @@
         div.p-4
           p.mb-0.text-center <b>Los protocolos de contacto servirán para aquellas situaciones en las que por razones de fuerza mayor el contacto sea necesario. Estos protocolos deberán ser una garantía para minimizar las consecuencias del primer contacto, asegurando que los procedimientos de actuación garanticen las vidas y las culturas de estos pueblos. Además, estos protocolos deben basarse en el derecho de los pueblos indígenas a no ser sometidos a procesos de aculturación (Oficina del Alto Comisionado de Derechos Humanos Naciones Unidas-ACNUDH, 2012).</b>      
 
-    figure.mb-5
-      img(src='@/assets/curso/tema4/img09.svg')  
-
-    div.p-4(style="background-color: #EAAD9B; border-radius: 50px")   
-      p.mb-0 <b>Apropiación del marco normativo y de políticas públicas para la protección y atención integral en salud de los pueblos indígenas en aislamiento y contacto inicial</b>
+    //- figure.mb-5
+    //-   img(src='@/assets/curso/tema4/img09.svg')  
+    
 
     Separador                   
 </template>
