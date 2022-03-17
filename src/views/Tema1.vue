@@ -141,7 +141,7 @@
             figure.mb-0
               img(src='@/assets/curso/tema1/img09.png') 
      
-      TabsA2.color-secundario
+      TabsA2.mitab.color-secundario
         .row.tarjeta.p-4.align-items-center(titulo="Riesgo inminente")
           .col-lg-7
             figure.mb-0
