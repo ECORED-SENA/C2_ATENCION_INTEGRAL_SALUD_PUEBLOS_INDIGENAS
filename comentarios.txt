@@ -1,3 +1,7 @@
+Buenas noches
+
+Se atienden y publican ajustes con las siguientes novedades
+
 H3: Por el momento no se como hacer dicho ajuste. Indagaré mañana con los compañeros
 H12: El color de los recuadros son iguales
 H18: En el xd dicho texto figura de tamaño 18, lo cual corresponde a H4 tal como se ha maquetado. En el XD tambien figura como negrilla. No se decirte por que se ven tan diferentes, pero tecnicamente esta maquetado igual
