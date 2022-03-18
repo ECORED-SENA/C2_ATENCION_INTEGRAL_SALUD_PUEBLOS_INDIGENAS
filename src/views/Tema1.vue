@@ -79,7 +79,7 @@
             .col-lg-11
               .mibloque3.bloque-texto-b.color-primario.py-5.ps-4
                 .bloque-texto-b__texto
-                  h4.mb-0 Son pueblos altamente vulnerables, que en la mayoría de los casos se encuentran en grave peligro de extinción. Su extremada vulnerabilidad se agrava ante las amenazas y agresiones que sufren sus territorios que ponen en peligro directamente el mantenimiento de su cultura y de su forma de vida.
+                  h4.mb-0(style="font-weight: normal") Son pueblos altamente vulnerables, que en la mayoría de los casos se encuentran en grave peligro de extinción. Su extrema vulnerabilidad se agrava ante las amenazas y agresiones que sufren sus territorios que ponen en peligro directamente el mantenimiento de su cultura y de su forma de vida.
     
     Separador
     p.mb-5 A continuación, se presentan las definiciones establecidas en el Decreto 1232 de 2018 para abordar los pueblos de aislamiento (Ministerio del Interior de Colombia, 2018):
@@ -159,7 +159,7 @@
               img(src='@/assets/curso/tema1/img22.png') 
           .col-lg-5
             div
-              h4 Pueblos indígenas colindantes:
+              h4 Pueblos indígenas colindantes
               p.mb-0 Poblaciones indígenas que habitan territorios directamente adyacentes a los territorios de los Pueblos Indígenas en Aislamiento.
           
         .row.tarjeta.p-4.align-items-center(titulo="Indicio")
@@ -171,7 +171,7 @@
               h4 Indicio
               p.mb-0 Señal a partir de la cual se puede deducir la posible existencia de Pueblos Indígenas en Aislamiento. Los indicios pueden ser de distinto tipo: lingüísticos, históricos, materiales, culturales, geográficos, y pueden provenir de distintas fuentes como testimonios orales, análisis de imágenes satelitales, avistamientos, entre otros.
           
-        .row.tarjeta.p-4.align-items-center(titulo="Zona de amortiguamiento.")
+        .row.tarjeta.p-4.align-items-center(titulo="Zona de amortiguamiento")
           .col-lg-7
             figure.mb-0
               img(src='@/assets/curso/tema1/img22.png') 
@@ -196,7 +196,7 @@
           .col-lg-5
             div
               h4 Vulnerabilidad inmunológica y demográfica
-              p.mb-0 las comunidades en aislamiento o en contacto inicial son fisiológica e inmunológicamente vulnerables a la carga microbiana de la población dominante o hegemónica por su poco contacto con otras comunidades indígenas y no indígenas, esta condición los hace sensibles inmunológicamente al contagio y desarrollo de patogenicidad asociada a enfermedades ajenas a su hábitat, aumentando la posibilidad de agravarse y morir.
+              p.mb-0 Las comunidades en aislamiento o en contacto inicial son fisiológica e inmunológicamente vulnerables a la carga microbiana de la población dominante o hegemónica por su poco contacto con otras comunidades indígenas y no indígenas, esta condición los hace sensibles inmunológicamente al contagio y desarrollo de patogenicidad asociada a enfermedades ajenas a su hábitat, aumentando la posibilidad de agravarse y morir.
           
     
     Separador
@@ -204,16 +204,16 @@
     #t_1_1.titulo-segundo.color-secundario
       h2 1.1 Referenciación del territorio
 
-    p.mb-4 Para los PIACI la protección de su territorio resulta vital para su pervivencia y su supervivencia, dado que se encuentran en estrecha interrelación e interdependencia con el ecosistema y el territorio en el que viven. Su cultura, su forma de vida se encuentran totalmente adaptados con el medio ambiente y han desarrollado un profundo conocimiento de su hábitat, de los ciclos de la naturaleza, de su fauna y su flora, este conocimiento se ha transmitido de generación en generación, lo que les ha permitido sobrevivir en armonía con la naturaleza.
+    p.mb-0 Para los PIACI la protección de su territorio resulta vital para su pervivencia y su supervivencia, dado que se encuentran en estrecha interrelación e interdependencia con el ecosistema y el territorio en el que viven. Su cultura, su forma de vida se encuentran totalmente adaptados con el medio ambiente y han desarrollado un profundo conocimiento de su hábitat, de los ciclos de la naturaleza, de su fauna y su flora, este conocimiento se ha transmitido de generación en generación, lo que les ha permitido sobrevivir en armonía con la naturaleza.
     .row.align-items-center
       .col-lg-6
-        .mibloque2.bloque-texto-b.color-primario.py-5.mb-5
+        .mibloque2.bloque-texto-b.color-primario.pt-0.pb-5.mb-5
           .bloque-texto-b__texto
             p.mb-0 Como lo establece la CIDH el respeto a su territorio y al no contacto son los principios y derechos más importantes para los pueblos PIACI, evitar cualquier agresión o invasión a su territorio y al establecer un contacto no autorizado o no buscado por estas comunidades (Oficina del Alto Comisionado de Derechos Humanos Naciones Unidas-ACNUDH, 2012).
         
         p.mb-0 <b>El derecho al territorio implica el respeto a su medio ambiente, a la no explotación de sus recursos, a la no contaminación de sus afluentes. Actualmente, existe una gran presión sobre los territorios de los pueblos PIACI, por la presencia de grupos armados irregulares, por la expansión de la frontera agrícola, por la construcción de infraestructura como vías que puedan atravesar su territorio, por la explotación de sus recursos madereros y minerales, de igual manera, el impacto del cambio climático amenaza su relación con el medio ambiente. En el caso de la consulta previa con los PIACI, el no contacto ya significa que prevalezca este derecho al territorio y a su medio ambiente (Corte Interamericana de Derechos Humanos - OEA, 2013).</b>
-      .col-lg-6
-        figure.mb-0
+      .col-lg-6.pe-5
+        figure.mb-0.pe-2
           img(src='@/assets/curso/tema1/img10.png') 
 
     div.p-0.mb-5(style="position: relative")      
@@ -230,7 +230,7 @@
 
     .bloque1.bloque-texto-b.color-acento-contenido.p-4
       .bloque-texto-b__texto
-        p.mb-0 El establecimiento de mecanismos efectivos para garantizar las prohibiciones anteriormente deben incluir la tipificación penal del delito de contacto forzado con pueblos indígenas en aislamiento, mecanismos que instauren también sistemas efectivos de monitoreo que no puedan forzar contactos, y en los que se impliquen activamente los pueblos indígenas que vivan en la zona colindante (Oficina del Alto Comisionado de Derechos Humanos Naciones Unidas-ACNUDH, 2012).
+        p.mb-0 El establecimiento de mecanismos efectivos para garantizar las prohibiciones deben incluir la tipificación penal del delito de contacto forzado con pueblos indígenas en aislamiento, mecanismos que instauren también sistemas efectivos de monitoreo que no puedan forzar contactos, y en los que se impliquen activamente los pueblos indígenas que vivan en la zona colindante (Oficina del Alto Comisionado de Derechos Humanos Naciones Unidas-ACNUDH, 2012).
         
     Separador
 
@@ -296,12 +296,12 @@
             .tarjeta.tarjeta--azul.d-flex.align-items-center
               .p-4 El derecho a no ser sometidos a la asimilación forzada o la destrucción de su cultura.
       
-    p.mb-5 Los Estados también tienen la obligación de tomar medidas para la prevención y el resarcimiento de todo acto que tenga por objeto o consecuencia privar a los pueblos indígenas de su integridad como pueblos distintos o de sus valores culturales o de su identidad étnica, y de toda forma de asimilación o integración forzada.
+    p.mb-5 Los estados también tienen la obligación de tomar medidas para la prevención y el resarcimiento de todo acto que tenga por objeto o consecuencia privar a los pueblos indígenas de su integridad como pueblos distintos o de sus valores culturales o de su identidad étnica, y de toda forma de asimilación o integración forzada.
 
     .row.justify-content-center.mb-5
       .col-lg-10
         .tema-1.cajon.color-secundario.p-4.mb-4
-          h4.mb-0 El cuidado de la cultura de los pueblos PIACI tiene particular atención y reclama de los Estados mayor cuidado en la evitabilidad del contacto no permitido, dado que estos pueblos al no conocer los códigos, ni conocer lenguaje, ni haber tenido contacto frecuente con la cultura occidental tienen mayor vulnerabilidad y riesgo de daño por otras culturas.
+          h4.mb-0(style="font-weight: bold") El cuidado de la cultura de los pueblos PIACI tiene particular atención y reclama de los Estados mayor cuidado en la evitabilidad del contacto no permitido, dado que estos pueblos al no conocer los códigos, ni conocer lenguaje, ni haber tenido contacto frecuente con la cultura occidental tienen mayor vulnerabilidad y riesgo de daño por otras culturas.
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-6

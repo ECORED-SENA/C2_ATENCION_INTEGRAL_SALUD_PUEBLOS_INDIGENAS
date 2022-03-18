@@ -25,23 +25,23 @@
         .col-lg-6
           p.mb-5 <b>El ingreso a los territorios de los PIACI solo se permite en los siguientes casos de excepción (Ministerio del Interior de Colombia, 2018):</b>
           .row.justify-content-end
-            .col-lg-11
-              ul.lista-ul--color
-                li 
-                  i.fas.fa-check
-                  | Cuando se identifiquen o denuncien actividades ilegales o el ingreso de personas no autorizadas al interior del territorio.
-                li 
-                  i.fas.fa-check
-                  | Cuando se produzcan eventos de salud pública que presenten alto riesgo de contagio y mortalidad para los pueblos indígenas en aislamiento.
-                li 
-                  i.fas.fa-check
-                  | Cuando se trate de asuntos de seguridad, defensa nacional y orden público.
-                li 
-                  i.fas.fa-check
-                  | Cuando se tenga información de amenazas o reducciones poblacionales severas de los pueblos indígenas en aislamiento, que amerite identificar estos factores de riesgo dentro de las zonas intangibles.
-                li 
-                  i.fas.fa-check
-                  | Cuando se presente una emergencia o desastre antrópico que ponga en riesgo la vida de los pueblos indígenas en aislamiento.
+            .col-lg-11              
+                .milista.ul.lista-ul--color
+                  li 
+                    i.fas.fa-check
+                    | Cuando se identifiquen o denuncien actividades ilegales o el ingreso de personas no autorizadas al interior del territorio.
+                  li 
+                    i.fas.fa-check
+                    | Cuando se produzcan eventos de salud pública que presenten alto riesgo de contagio y mortalidad para los pueblos indígenas en aislamiento.
+                  li 
+                    i.fas.fa-check
+                    | Cuando se trate de asuntos de seguridad, defensa nacional y orden público.
+                  li 
+                    i.fas.fa-check
+                    | Cuando se tenga información de amenazas o reducciones poblacionales severas de los pueblos indígenas en aislamiento, que amerite identificar estos factores de riesgo dentro de las zonas intangibles.
+                  li 
+                    i.fas.fa-check
+                    | Cuando se presente una emergencia o desastre antrópico que ponga en riesgo la vida de los pueblos indígenas en aislamiento.
         .col-lg-6
           figure.mb-0
             img(src='@/assets/curso/tema4/img03.png') 
@@ -57,7 +57,7 @@
           .col-lg-6          
             .row.justify-content-end
               .col-lg-11
-                ul.lista-ul--color
+                .milista.ul.lista-ul--color
                   li 
                     i.fas.fa-check
                     | Se deberá informar y coordinar con el Ministerio del Interior y el comité local acerca de las motivaciones del ingreso, la fecha y los objetivos de este, según el caso.
@@ -67,6 +67,9 @@
                   li 
                     i.fas.fa-check
                     | Se deberá evitar al máximo cualquier tipo de contacto, manipular vestigios o elementos pertenecientes a la cultura material e inmaterial de los pueblos en aislamiento, incluso en caso de tratarse de actuaciones o actividades de grupos armados ilegales.
+                  li 
+                    i.fas.fa-check
+                    | Se evitará realizar registro fílmico y fotográfico a lugares y personas pertenecientes al pueblo indígena aislado.
                   li 
                     i.fas.fa-check
                     | Se procurará generar el menor impacto posible sobre el paisaje y los ecosistemas a los que se ingresa, así como evitar dejar rastros o elementos materiales, basuras y otros que puedan ser encontrados por los pueblos indígenas en aislamiento.                
@@ -85,13 +88,13 @@
             figure
               img(src='@/assets/curso/tema4/img05.png' style="background-color: white; border-radius:18px") 
           .col-lg-6.p-4
-            p.mb-0 <b>Existe una diversidad de pueblos en aislamiento con diversidad de lenguas, cultura, saberes y tradiciones en los diferentes países, sus territorios muchas veces se encuentran en la frontera de varios países, se ha determinado que son sujetos especiales de derecho, y en el respeto del no contacto se prohíbe el estudio directo, dado que esto implica la vulneración de su derecho a la autodeterminación de permanecer en aislamiento, y además porque pone en riesgo su salud, dadas las enfermedades que se le pueden transmitir de manera directa o indirecta, así como el daño al medio ambiente y a su cultura.</b>
+            p.mb-0 <b>Garantizar un territorio sano y con recursos naturales, el respeto al territorio PIACI y el no contacto, así como el mantenimiento de la salud de población en la zona colindante es la mejor garantía para la salud de los pueblos PIACI. En el siguiente recurso se podrá conocer algunas de las recomendaciones más importantes para la atención de emergencia para los pueblos indígenas. </b>
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-6.p-0
         img(src='@/assets/curso/tema4/img06.svg' ) 
 
-    .pasostema2-1.pt-5(:style="{'background-repeat': 'repeat', 'background-size': 'contain', 'background-image': `url(${require('@/assets/curso/tema2/img07.svg')})`}")
+    .pasostema2-1.pt-5
       .row.justify-content-center
         .col-lg-10.p-0
           PasosA.color-acento-botones(tipo="n")            
@@ -124,7 +127,7 @@
 
     .row.justify-content-center.mb-5
       .col-lg-6.pe-0        
-        .mibloque4.bloque-texto-b.color-primario.py-5.mb-0
+        .mibloque6.bloque-texto-b.color-primario.py-5.mb-0
           .bloque-texto-b__texto
             p.mb-0 Durante el proceso de atención se debe <b>generar un espacio con la comunidad</b> para informar lo encontrado durante la valoración e informar los tratamientos que se van suministrar, ya sea orales, intravenosos, entre otros,  de esta manera se minimiza el temor y facilita la aceptación de los tratamientos; como se presume que no hablan la lengua española, ni tampoco plenamente la lengua de los pueblos colindantes, es necesaria la participación de un antropólogo-lingüista y de miembros de estas comunidades colindantes, pues se espera que compartan rasgos lingüísticos y por tanto algunas palabras.
       .col-lg-6.p-0

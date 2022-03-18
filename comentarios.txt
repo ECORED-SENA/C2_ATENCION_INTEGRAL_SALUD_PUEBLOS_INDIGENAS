@@ -1,1 +1,8 @@
 H3: Por el momento no se como hacer dicho ajuste. Indagaré mañana con los compañeros
+H12: El color de los recuadros son iguales
+H18: En el xd dicho texto figura de tamaño 18, lo cual corresponde a H4 tal como se ha maquetado. En el XD tambien figura como negrilla. No se decirte por que se ven tan diferentes, pero tecnicamente esta maquetado igual
+H19: No encuentro la infografia. El archivo ppt señalado es generalmente el fuente para crear algun otro tipo de documento anexo
+H22: Adjunto imagen como evidencia de que en mi navegador no hay proeblasm con la linea entrecortada. Se sugiere revisar este caso en particular con fransisco ya que considero que el diseñador se ha salido innecasariamente de los parametros dados por la base respecto a los tamaños de iconos señalados y la curva de las lineas
+H30: Por favor revisar con francisco. Considero que el tamaño de las imagenes y su ubicacion es correcta en la maquetacion y que la ubicacion que tiene dichas imagenes en el XD corresponde a un pequeño defecto en el diseño
+H33: Mismo comentario hecho en el H22, con la adicion de que en este caso el diseñador ha cambiado el color de las lineas respecto al color de los circulos, cosa que no hizo en el H22. Por favor evaluar si este tipo de cambios que hace el diseñador respecto a los valores por defecto de los componentes de la base, es necesario, conveniente y justificado. Si así lo determinan yo proceso a hacer los ajustes que corresponda pero creo que antes es necesario que los lideres le den una revisada a este tipo de casos
+H39: Mismo comentarios H33

@@ -48,7 +48,7 @@
           .col-lg-5.p-0
             img(src='@/assets/curso/tema3/img05.png') 
           .col-lg-7.p-4(style="background-color: #F8F8FA; border-radius: 20px")
-            p.mb-0 Existe una diversidad de pueblos en aislamiento con diversidad de lenguas, cultura, saberes y tradiciones en los diferentes países, sus territorios muchas veces se encuentran en la frontera de varios países, se ha determinado que son sujetos especiales de derecho, y en el respeto del no contacto se prohíbe el estudio directo, dado que esto implica la vulneración de su derecho a la autodeterminación de permanecer en aislamiento, y además porque pone en riesgo su salud, dadas las enfermedades que se le pueden transmitir de manera directa o indirecta, así como el daño al medio ambiente y a su cultura.
+            p.mb-0 <b>Existe una diversidad de pueblos en aislamiento con diversidad de lenguas, cultura, saberes y tradiciones en los diferentes países, sus territorios muchas veces se encuentran en la frontera de varios países, se ha determinado que son sujetos especiales de derecho, y en el respeto del no contacto se prohíbe el estudio directo, dado que esto implica la vulneración de su derecho a la autodeterminación de permanecer en aislamiento, y además porque pone en riesgo su salud, dadas las enfermedades que se le pueden transmitir de manera directa o indirecta, así como el daño al medio ambiente y a su cultura.</b>
 
     p.mb-5 Se ha prohibido el ingreso a los territorios de los pueblos indígenas en aislamiento, como sujetos de especial protección constitucional, en ningún caso podrán ser intervenidos o despojados de sus territorios, ni serán objeto de políticas, programas, acciones, proyectos, obras o actividades privadas o públicas, académicas o investigativas que promuevan el contacto o realicen intervenciones en sus territorios, dada la condición de vulnerabilidad de estos pueblos; el contacto y las intervenciones directas en sus territorios están prohibidas.
 
@@ -57,7 +57,7 @@
       .tarjeta-avatar-b.mb-5
         .tarjeta-avatar-b__img
           img(src='@/assets/curso/tema3/img06.svg') 
-        .tarjeta.tarjeta--azul(style="background-color: #F9F8F5")
+        .tarjeta.tarjeta--azul(style="background-color: #F6F9FC")
           .p-5
             br
             br
@@ -69,7 +69,7 @@
       .tarjeta-avatar-b.mb-5
         .tarjeta-avatar-b__img
           img(src='@/assets/curso/tema3/img07.svg') 
-        .tarjeta.tarjeta--azul(style="background-color: #F9F8F5")
+        .tarjeta.tarjeta--azul(style="background-color: #F6F9FC")
           .p-5
             br
             br
@@ -125,22 +125,22 @@
             .col-lg-10.p-0
               PasosA.color-acento-botones.mb-5(tipo="n")            
                 .mb-0 
-                  h4 Fortalecimiento de la función y presencia del Estado en las áreas fronterizas:
+                  h4 Fortalecimiento de la función y presencia del Estado en las áreas fronterizas
                   p.mb-0 Existe consenso sobre el hecho de que los PIACI se encuentran actualmente en una situación crítica de vulnerabilidad por la presión sobre sus territorios, por el avance de la frontera económica, mayormente extractivista, por su falta de defensa biológica contra enfermedades contagiosas, por la imposibilidad de poder representarse ante la ley y por la insuficiencia de las instancias estatales de asegurarles sus derechos humanos básicos. Casi todos los actores en las regiones fronterizas que hacen parte del hábitat de los PIACI reclaman la presencia de la autoridad del Estado para enfrentar el ambiente de violencia, inseguridad y, en muchos casos, de impunidad.
                 .mb-0 
                   h4 Mejorar la coordinación y eficiencia de políticas socioambientales para áreas protegidas: 
                   p.mb-0 La interdependencia y vinculación de políticas de protección de los pueblos indígenas de alta vulnerabilidad y de protección de los ecosistemas naturales que forman su hábitat es otro consenso entre todos los actores y tiene especial importancia en el espacio de vida amazónico.
                 .mb-0 
-                  h4 Continuar concertando una agenda regional de protección de los PIACI:
+                  h4 Continuar concertando una agenda regional de protección de los PIACI
                   p.mb-0 El programa logró buenos resultados en su primera fase.
                 .mb-0 
-                  h4 Fortalecer las actividades para la protección de la salud preventiva y comunitaria: 
+                  h4 Fortalecer las actividades para la protección de la salud preventiva y comunitaria:
                   p.mb-0 El derecho a la salud es un derecho reconocido internacionalmente y tiene especial importancia para los PIACI, dada su situación de extrema vulnerabilidad. Las medidas a tomar para evitar un daño irreparable tienen que responder a dos finalidades: evitar la transmisión de enfermedades por contagio con actores externos y proporcionar tanto el acceso a sus medicinas tradicionales como a los servicios diferenciados de salud pública, controlar factores epidemiológicos, sociales, ambientales y alimentarios.
                 .mb-0 
-                  h4 Integrar la gestión territorial con conocimientos y prácticas tradicionales: 
+                  h4 Integrar la gestión territorial con conocimientos y prácticas tradicionales
                   p.mb-0  La interdependencia y vinculación de políticas de protección de los pueblos indígenas de alta vulnerabilidad y de protección de los ecosistemas naturales que forman su hábitat es otro consenso entre todos los actores y tiene especial importancia en la región amazónica, que debe incluir los conocimientos y prácticas de la gestión socioambiental tradicional realizada por los pueblos indígenas de la región. 
                 .mb-0 
-                  h4 Integrar la gestión territorial con conocimientos y prácticas tradicionales: 
+                  h4 Integrar la gestión territorial con conocimientos y prácticas tradicionales
                   p.mb-0 Fortalecer la normatividad, la coordinación del gobierno nacional, los entes territoriales, las organizaciones indígenas y de las zonas colindantes para el no contacto y la protección de los PIACI (BID - OTCA, 2018).
 
     p.mb-5 Para finalizar con este tema se invita a consultar el siguiente video sobre los valores y principios en la atención integral en salud desde un enfoque intercultural.

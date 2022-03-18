@@ -39,7 +39,7 @@
         figure.mb-5
           img(src='@/assets/curso/tema2/img03.png')   
         h4 Vulnerabilidad política     
-        p.mb-0 Debido al desconocimiento de la cultura de estos pueblos, de sus formas de organización, de su lenguaje, existe mayor peligro de que el contacto forzado termine violentándolos, generando un genocidio
+        p.mb-0 Debido al desconocimiento de la cultura de estos pueblos, de sus formas de organización, de su lenguaje, existe mayor peligro de que el contacto forzado termine violentándolos, generando un genocidio.
 
     .row.justify-content-center.mb-5
       .col-lg-4
@@ -60,7 +60,7 @@
         figure
           img(src='@/assets/curso/tema2/img06.png')   
       .col-lg-8.d-flex.align-items-center.p-4(style="background-color: #F7724A")
-        div.p-5(style="background-color: white")
+        div.p-5(style="background-color: #FFF8F6")
           p.mb-0 <b> Los mecanismos de control y protección se deben dar en su territorio, en la zona colindante y en la zona de amortiguamiento, zonas en las que debe haber un estricto control en la movilización y en las actividades que se realizan de manera directa e indirecta, para prevenir el contacto voluntario o accidental con estas comunidades, así como la contaminación de su hábitat o sus afluentes de agua y a todo su medio ambiente. </b>
 
     p.mb-5 Se debe realizar un monitoreo integral de todos los aspectos que puedan poner en peligro a los PIACI, incluyendo en el monitoreo a las comunidades de la zona colindante, entre las actividades de monitoreo se encuentran la valoración de las condiciones de salud de las comunidades que vivan cerca a los territorios de los PIACI, monitorear las condiciones del medio ambiente (fauna y flora), los recursos hídricos, el entorno socioeconómico y las actividades que se realicen en la zona colindante, como la realización del proyectos públicos o privados en zonas cercanas al territorio de los PIACI. Entre las actividades de monitoreo también se encuentran: 
@@ -84,7 +84,7 @@
             .justify-content-start.m-0(style="position: absolute; z-index:1 ; top: 10%; width: 100%; height: 80%")
               .row.justify-content-start.m-0.ms-4
                 .col-lg-8.p-3(style="background-color: white")
-                  p.mb-0 Se deben monitorear amenazas como presencia de grupos ilegales, minería ilegal o de afectación a los derechos humanos en la zona de amortiguación y la zona colindante. El monitoreo en el territorio PIACI y la zona de amortiguación debe ser de carácter no invasivo (imágenes de satélite y georreferenciales, sobrevuelos, observación de vestigios dejados por los indígenas, documentación histórica, registro y sistematización de las informaciones recolectadas con la población colindante o de estudios realizados de manera no invasiva por entidades del Estado, etc.).
+                  p.mb-0 Se deben monitorear amenazas como presencia de grupos ilegales, minería ilegal o de afectación a los derechos humanos en la zona de amortiguación y la zona colindante. El monitoreo en el territorio PIACI y la zona de amortiguación debe ser de carácter no invasivo (imágenes de satélite y georreferenciales, sobrevuelos, observación de vestigios dejados por los indígenas, documentación histórica, registro y sistematización de las informaciones recolectadas con la población colindante o de estudios realizados de manera no invasiva por entidades del estado, etc.).
 
       Separador 
       #t_2_2.titulo-segundo.color-secundario
@@ -100,15 +100,15 @@
               .col-lg-8
                 figure
                   img(src='@/assets/curso/tema2/img09.png') 
-          p.mb-5.mx-5 identifica y previene las causas que generan las amenazas a los Derechos de los Pueblos Indígenas en Aislamiento, que buscan evitar su vulneración.
+          p.mb-5.mx-5 Identifica y previene las causas que generan las amenazas a los Derechos de los Pueblos Indígenas en Aislamiento, que buscan evitar su vulneración.
       .col-lg-6.d-flex
         div.py-4(style="background-color: #C0C3B0")
-          h3.text-center.mb-5 Prevención temprana
+          h3.text-center.mb-5 Prevención urgente
           .row.justify-content-center.mb-4
               .col-lg-8
                 figure
                   img(src='@/assets/curso/tema2/img10.png') 
-          p.mb-5.mx-5 ante el riesgo de una violación de derechos de los Pueblos Indígenas en Aislamiento, adopta acciones, planes y programas orientados a atender la contingencia y desactivar las amenazas para evitar su ocurrencia.
+          p.mb-5.mx-5 Ante el riesgo de una violación de derechos de los Pueblos Indígenas en Aislamiento, adopta acciones, planes y programas orientados a atender la contingencia y desactivar las amenazas para evitar su ocurrencia.
 
     p.mb-5 Para tal fin se crea la  Comisión Nacional de Prevención y Protección de los Derechos de los Pueblos Indígenas en Aislamiento, compuesta por varios ministerios (Ministerio del Interior, Ministerio de Salud, Ministerio de Cultura, Ministerio de Defensa, Ministerio del Medio Ambiente, Dirección Nacional de Parques), representantes de organizaciones indígenas de carácter nacional, entre otros y se crean los Comités Locales de Prevención y Protección de los Derechos de los Pueblos Indígenas en Aislamiento (Ministerio del Interior de Colombia, 2018), en el marco de los comités locales se conforman los Grupos Técnicos Interculturales encargados de apoyar técnica y operativamente a los comités locales.
 
@@ -119,7 +119,7 @@
             figure
               img(src='@/assets/curso/tema2/img11.png') 
           .col-lg-8.p-4
-            p.mb-0 Se debe realizar una capacitación en todos los ministerios del gobierno nacional, en las instituciones del orden nacional y territorial, difundiendo el contexto de los derechos, las particularidades y vulnerabilidades de los PIACI, así como de los protocolos y de las prohibiciones que existen respecto a no contacto y no daño. Establecer programas de coordinación y trabajo conjunto entre las acciones que se desarrollen desde el Estado a nivel nacional y local. (Oficina del Alto Comisionado de Derechos Humanos Naciones Unidas-ACNUDH, 2012). 
+            p.mb-0 <b>Se debe realizar una capacitación en todos los ministerios del gobierno nacional, en las instituciones del orden nacional y territorial, difundiendo el contexto de los derechos, las particularidades y vulnerabilidades de los PIACI, así como de los protocolos y de las prohibiciones que existen respecto a no contacto y no daño. Establecer programas de coordinación y trabajo conjunto entre las acciones que se desarrollen desde el Estado a nivel nacional y local. (Oficina del Alto Comisionado de Derechos Humanos Naciones Unidas-ACNUDH, 2012).</b> 
 
     #t_2_3.titulo-segundo.color-secundario
       h2 2.3. Normatividad nacional en salud
@@ -150,7 +150,7 @@
             p.mb-0 Definir, adaptar y ejecutar acciones en salud pública en coordinación con el Ministerio de Salud y Protección Social, de acuerdo con las normas establecidas para este fin, con una previa certificación en salud. Crear y/o transformar las estructuras propias para el desarrollo del SISPI de acuerdo con la ley de origen, derecho mayor o derecho propio de cada pueblo indígena, prestación de servicios en salud articulados entre el SGSSS y la salud propia de cada pueblo indígena.  Administrar, suministrar y responder por la información en salud relacionada con la salud pública, gestión del riesgo y del cuidado de la salud en los aspectos administrativos, financieros y epidemiológicos que se generen en los respectivos territorios indígenas y sus estructuras propias en salud.
           div(titulo="Artículo 84. Estructuras propias del SISPI" subtitulo="")
             p.mb-0 Estas se crearán con base en las estructuras de gobierno propio de los pueblos indígenas, en cumplimiento de lo previsto en el presente Decreto y de aquello que se concerte en la Mesa Permanente de Concertación con Pueblos y Organizaciones Indígenas. La Subcomisión de Salud Indígena será la instancia consultiva y técnica entre el gobierno nacional y los pueblos indígenas que orienta, formula y contribuye a la construcción e implementación del SISPI, la cual operará de acuerdo con el plan de trabajo, según las necesidades de desarrollo del SISPI.
-          div(titulo="Artículo 87. Evaluación, seguimiento y control." subtitulo="")
+          div(titulo="Artículo 87. Evaluación, seguimiento y control" subtitulo="")
             p.mb-0 Se plantea mecanismos de evaluación, seguimiento y control, de acuerdo con los principios generales del SGSSS. 
           div(titulo="Ley 691 de 2001- capítulo 7- Participación en los órganos dirección del sistema: Art. 22, 23, 24" subtitulo="")
             p.mb-0 De acuerdo con la respectiva normativa, el derecho a la salud está reconocido en el Artículo 64 de la Constitución Política de Colombia, su alcance es general para toda la población y en lo concerniente a los pueblos indígenas, en el país se discutió y aprobó esta ley, la cual reglamentó la participación de los Grupos Étnicos en el Sistema General de Seguridad Social en Colombia.
@@ -163,11 +163,11 @@
         .col-lg-6.py-0
           figure.mb-0
             img(src='@/assets/curso/tema2/img14.svg')               
-      .justify-content-start.m-0(style="position: absolute; z-index:0 ; top: 10%; width: 100%; height: 80%")
+      .justify-content-start.m-0(style="position: absolute; z-index:0 ; top: 8.5%; width: 100%; height: 80%")
         .row.justify-content-start.m-0
-          .col-lg-9.p-5(style="border: 5px solid #707070; border-radius: 18px")
+          .col-lg-9.p-5(style="border: 5px solid #707070; border-radius: 18px; background-color: #F2F4EA")
             .row.justify-content-start
-              .col-lg-8
+              .col-lg-8.py-4
                 .row.mb-5
                   .col-lg-1
                     img(src='@/assets/curso/tema2/img15.svg')               
@@ -195,7 +195,7 @@
                     img(src='@/assets/curso/tema2/img15.svg')               
                   .col-lg-5
                     h4.mb-0 Diversidad étnica y cultural
-                .row.mb-5
+                .row
                   .col-lg-1
                     img(src='@/assets/curso/tema2/img15.svg')               
                   .col-lg-5
@@ -207,14 +207,14 @@
       .col-lg-10
         .tema-1.cajon.color-secundario.p-4.mb-4
           p.mb-4 El sistema practicará la observancia y el respeto a su estilo de vida y tomará en consideración sus especificidades culturales y ambientales, que permitan un desarrollo armónico a los pueblos indígenas (Artículo 3). El objeto de esta ley se ubica en su Artículo: 
-          h4.mb-0 Proteger de manera efectiva los derechos a la salud de los pueblos indígenas, garantizándoles su integridad cultural y asegurando su permanencia social.
+          h4.mb-0 <b>Proteger de manera efectiva los derechos a la salud de los pueblos indígenas, garantizándoles su integridad cultural y asegurando su permanencia social.</b>
 
     .row.justify-content-center.mb-5
       .col-lg-7
         p.mb-0.pe-5 En el marco del Sistema General de Seguridad Social en Salud las autoridades indígenas tienen competencias, toda vez que la ley establece que además de las autoridades del Sistema General de Seguridad Social, las autoridades indígenas serán consideradas instancias, organismos e instituciones en sus territorios, atendiendo su especial naturaleza jurídica y organizativa. Por esto, en el capítulo siete (Artículos 22 al 24) se establecen los principios de concertación, representatividad y control de las autoridades en los Consejos Territoriales de Seguridad Social en Salud.
         .mibloque4.bloque-texto-b.color-primario.py-5.mb-0
           .bloque-texto-b__texto
-            h4.mb-0 De acuerdo con los capítulos dos y tres de esta ley, los miembros de los pueblos indígenas en el Sistema General de Seguridad Social en Salud se vinculan como afiliados al régimen subsidiado, excepto en los siguientes casos: 
+            h4.mb-0 <b>De acuerdo con los capítulos dos y tres de esta ley, los miembros de los pueblos indígenas en el Sistema General de Seguridad Social en Salud se vinculan como afiliados al régimen subsidiado, excepto en los siguientes casos: </b>
       .col-lg-1
       .col-lg-2
         img(src='@/assets/curso/tema2/img16.svg')               

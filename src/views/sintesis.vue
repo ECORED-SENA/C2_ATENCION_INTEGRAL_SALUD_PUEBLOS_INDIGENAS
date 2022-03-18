@@ -7,12 +7,12 @@
     //- p.mb-5 A continuación, se muestra un mapa conceptual con los elementos más importantes desarrollados en este componente.
 
     .row.justify-content-center.mb-5
-      .col-lg-10
+      .col-lg-12.px-5
         figure
           img(src='@/assets/curso/tema4/img09.svg')      
 
-    div.p-4(style="background-color: #EAAD9B; border-radius: 50px")   
-      p.mb-0 <b>Apropiación del marco normativo y de políticas públicas para la protección y atención integral en salud de los pueblos indígenas en aislamiento y contacto inicial</b>  
+    div.p-4.m-0(style="background-color: #EAAD9B; border-radius: 50px")   
+      p.mb-0 <b>Apropiación del marco normativo y de políticas públicas para la protección y atención integral en salud de los pueblos indígenas en aislamiento y contacto inicial.</b>  
 
 </template>
 
