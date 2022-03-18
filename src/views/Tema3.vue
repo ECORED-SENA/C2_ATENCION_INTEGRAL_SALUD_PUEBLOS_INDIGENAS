@@ -128,13 +128,13 @@
                   h4 Fortalecimiento de la función y presencia del Estado en las áreas fronterizas
                   p.mb-0 Existe consenso sobre el hecho de que los PIACI se encuentran actualmente en una situación crítica de vulnerabilidad por la presión sobre sus territorios, por el avance de la frontera económica, mayormente extractivista, por su falta de defensa biológica contra enfermedades contagiosas, por la imposibilidad de poder representarse ante la ley y por la insuficiencia de las instancias estatales de asegurarles sus derechos humanos básicos. Casi todos los actores en las regiones fronterizas que hacen parte del hábitat de los PIACI reclaman la presencia de la autoridad del Estado para enfrentar el ambiente de violencia, inseguridad y, en muchos casos, de impunidad.
                 .mb-0 
-                  h4 Mejorar la coordinación y eficiencia de políticas socioambientales para áreas protegidas: 
+                  h4 Mejorar la coordinación y eficiencia de políticas socioambientales para áreas protegidas
                   p.mb-0 La interdependencia y vinculación de políticas de protección de los pueblos indígenas de alta vulnerabilidad y de protección de los ecosistemas naturales que forman su hábitat es otro consenso entre todos los actores y tiene especial importancia en el espacio de vida amazónico.
                 .mb-0 
                   h4 Continuar concertando una agenda regional de protección de los PIACI
                   p.mb-0 El programa logró buenos resultados en su primera fase.
                 .mb-0 
-                  h4 Fortalecer las actividades para la protección de la salud preventiva y comunitaria:
+                  h4 Fortalecer las actividades para la protección de la salud preventiva y comunitaria
                   p.mb-0 El derecho a la salud es un derecho reconocido internacionalmente y tiene especial importancia para los PIACI, dada su situación de extrema vulnerabilidad. Las medidas a tomar para evitar un daño irreparable tienen que responder a dos finalidades: evitar la transmisión de enfermedades por contagio con actores externos y proporcionar tanto el acceso a sus medicinas tradicionales como a los servicios diferenciados de salud pública, controlar factores epidemiológicos, sociales, ambientales y alimentarios.
                 .mb-0 
                   h4 Integrar la gestión territorial con conocimientos y prácticas tradicionales

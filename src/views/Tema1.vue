@@ -177,7 +177,7 @@
               img(src='@/assets/curso/tema1/img22.png') 
           .col-lg-5
             div
-              h4 Zona de amortiguamiento para Pueblos Indígenas en Aislamiento.
+              h4 Zona de amortiguamiento para Pueblos Indígenas en Aislamiento
               p.mb-0 Son las áreas adyacentes a los límites de las zonas donde se asientan los Pueblos Indígenas en Aislamiento, como espacios de transición entre estas y el entorno. Las entidades nacionales y locales competentes tomarán medidas en estas zonas, con el fin de limitar las perturbaciones causadas por la actividad humana e impedir que se generen disturbios o alteraciones en los ecosistemas de los territorios de los Pueblos Indígenas en Aislamiento.
           
         .row.tarjeta.p-4.align-items-center(titulo="Autodeterminación")
