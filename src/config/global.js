@@ -51,7 +51,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '2.1',
-            titulo: 'Referenciación del territorio',
+            titulo: 'Protección y atención',
             hash: 't_2_1',
           },
           {

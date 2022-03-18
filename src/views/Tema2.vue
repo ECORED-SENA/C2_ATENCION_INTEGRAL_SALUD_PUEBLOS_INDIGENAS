@@ -25,7 +25,7 @@
     Separador
 
     #t_2_1.titulo-segundo.color-secundario
-      h2 2.1 Referenciación del territorio
+      h2 2.1 Protección y atención
 
     p.mb-5 Los PIACI son de especial atención, dado que son particularmente vulnerables por su situación de aislamiento y poco contacto con las culturas mayoritarias, esta situación hace que el respeto y la protección a su territorio sea aún mayor, dado que en su proceso de adaptación son más dependientes de la ecología y de las condiciones de su territorio, de acuerdo con la OTCA (BID - OTCA, 2018), los PIACI presentan las siguientes vulnerabilidades:
 

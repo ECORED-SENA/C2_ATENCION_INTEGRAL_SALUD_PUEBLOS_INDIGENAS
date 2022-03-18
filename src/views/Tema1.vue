@@ -15,15 +15,16 @@
         figure.mb-0
           img(src='@/assets/curso/tema1/img01.png') 
       .col-lg-7
-        .mibloque.bloque-texto-b.color-primario.py-5.ps-4
-          .bloque-texto-b__texto
-            p.mb-0 Según la definición de la Corte Interamericana de Derechos Humanos (CIDH) los pueblos indígenas en situación de aislamiento voluntario son pueblos o segmentos de pueblos indígenas que no mantienen contacto sostenido con la población mayoritaria no indígena, y que suelen rehuir todo tipo de contacto con personas ajenas a su pueblo. También pueden ser pueblos o segmentos de pueblos previamente contactados y que tras un contacto intermitente con las sociedades no indígenas han vuelto a una situación de aislamiento, y rompen las relaciones de contacto que pudieran tener con dichas sociedades (Corte Interamericana de Derechos Humanos - OEA, 2013).
+        .t1b1.p-0.m-0
+          .mibloque.bloque-texto-b.color-primario.py-5.ps-4
+            .bloque-texto-b__texto
+              p.mb-0 Según la definición de la Corte Interamericana de Derechos Humanos (CIDH) los pueblos indígenas en situación de aislamiento voluntario son pueblos o segmentos de pueblos indígenas que no mantienen contacto sostenido con la población mayoritaria no indígena, y que suelen rehuir todo tipo de contacto con personas ajenas a su pueblo. También pueden ser pueblos o segmentos de pueblos previamente contactados y que tras un contacto intermitente con las sociedades no indígenas han vuelto a una situación de aislamiento, y rompen las relaciones de contacto que pudieran tener con dichas sociedades (Corte Interamericana de Derechos Humanos - OEA, 2013).
 
-    div.pt-5(:style="{'background-position': '0% -70px', 'background-size': 'cover', 'background-repeat': 'no-repeat', 'background-image': `url(${require('@/assets/curso/tema1/img02.png')})`}")
-      .row.justify-content-center.mb-5
+    div.pt-5(:style="{'background-position': '0% -70px', 'background-size': '100% 130%', 'background-repeat': 'no-repeat', 'background-image': `url(${require('@/assets/curso/tema1/img02.png')})`}")
+      .row.justify-content-center
         .col-lg-6
           figure.mb-5
-            img(src='@/assets/curso/tema1/img03.png') 
+            img(src='@/assets/curso/tema1/img03.svg') 
         
       
     .row.justify-content-center.mb-5
@@ -33,16 +34,17 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-7
-        p.mb-5 De acuerdo con el citado informe de la CIDH América tiene el mayor porcentaje de pueblos indígenas en aislamiento o contacto inicial en el mundo (PIACI), en Suramérica hay aproximadamente 200 PIACI con un número estimado de 10.000 personas, según el informe de la Corte muchos pueblos han desaparecido y otros que tienen menos de 255 personas están en peligro de desaparecer. La CIDH estableció como una de las premisas fundamentales el respeto al no contacto y a su elección de permanecer en aislamiento, en este sentido es preciso que 
+        p.mb-5 De acuerdo con el citado informe de la CIDH América tiene el mayor porcentaje de pueblos indígenas en aislamiento o contacto inicial en el mundo (PIACI), en Suramérica hay aproximadamente 200 PIACI con un número estimado de 10.000 personas, según el informe de la Corte muchos pueblos han desaparecido y otros que tienen menos de 255 personas están en peligro de desaparecer. La CIDH estableció como una de las premisas fundamentales el respeto al no contacto y a su elección de permanecer en aislamiento, en este sentido es preciso que:
         .tema-1.px-5
-          .bloque-texto-d.color-primario.px-4.pt-0.pb-4
-            .bloque-texto-d__texto.mb-2
-              i.fas.fa-quote-left
-              h4 se debe respetar el principio de no contacto, lo que implica implementar una política pública que proteja sus espacios vitales y les preserve de presiones por parte de empresas extractivas, la tala ilegal de madera, y el asentamiento no autorizado en el área
-              i.fas.fa-quote-right
-            .bloque-texto-d__autor 
-              p.mb-0 (Corte Interamericana de Derechos
-              p.mb-0 Humanos - OEA, 2013)
+          .t1b2
+            .bloque-texto-d.color-primario.px-4.pt-0.pb-4
+              .bloque-texto-d__texto.mb-2
+                i.fas.fa-quote-left
+                h4 se debe respetar el principio de no contacto, lo que implica implementar una política pública que proteja sus espacios vitales y les preserve de presiones por parte de empresas extractivas, la tala ilegal de madera, y el asentamiento no autorizado en el área
+                i.fas.fa-quote-right
+              .bloque-texto-d__autor 
+                p.mb-0 (Corte Interamericana de Derechos
+                p.mb-0 Humanos - OEA, 2013)
       .col-lg-5
         figure.mb-0
           img(src='@/assets/curso/tema1/img04.svg') 
@@ -54,14 +56,14 @@
         figure.mb-0
           img(src='@/assets/curso/tema1/img05.png') 
 
-    .slider1.tarjeta.p-4(:style="{'background-position': '0% -70px', 'background-size': 'cover', 'background-repeat': 'no-repeat', 'background-image': `url(${require('@/assets/curso/tema1/img08.png')})`}")      
+    .slider1.tarjeta.p-4(:style="{'background-position': '0% -70px', 'background-size': '100% 160%', 'background-repeat': 'no-repeat', 'background-image': `url(${require('@/assets/curso/tema1/img08.png')})`}")      
         SlyderA
           .row.justify-content-center.align-items-center
-            .col-lg-4
+            .col-lg-5.ps-4.pb-4
               figure.mb-0
                 img(src='@/assets/curso/tema1/img06.png') 
             .col-lg-7
-              .mibloque2.bloque-texto-b.color-primario.py-5.ps-4
+              .mibloque2.bloque-texto-b.color-primario.py-5.ps-0
                 .bloque-texto-b__texto
                   p.mb-0 Son pueblos integrados al ecosistema y al territorio en el que habitan, mantienen una estrecha relación de interdependencia con el medio ambiente en el que desarrollan su vida y su cultura. Poseen un profundo conocimiento de su medio ambiente, lo que les permite vivir de manera autosuficiente generación tras generación, razón por la cual el mantenimiento de sus territorios es de vital importancia para todos ellos.
 
