@@ -18,7 +18,7 @@
             h2.mb-0 Marco normativo y políticas públicas
           p.mb-4 El marco normativo y de políticas de los pueblos PIACI comparte además del marco de derechos establecido para los pueblos indígenas, uno específico para su protección, reconociendo la autodeterminación de aislamiento voluntario y la protección especial de su territorio y su cultura. A continuación, se podrá conocer estos referentes normativos. 
           
-          a.boton.color-principal.texto-blanco(style="background-color: #F8D345", :href="obtenerLink('/downloads/prueba.pdf')" target="_blank" type="application/pdf")
+          a.boton.color-principal.texto-blanco(style="background-color: #F8D345", :href="obtenerLink('/downloads/INFOGRAFIA MARCO.pdf')" target="_blank" type="application/pdf")
             span(style="color: #12263F !important") Descargar
             i.fas.fa-file-download(style="color: #12263F !important")
 
