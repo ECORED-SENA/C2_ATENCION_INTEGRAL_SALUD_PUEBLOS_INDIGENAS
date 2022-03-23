@@ -34,7 +34,7 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-7
-        p.mb-5 De acuerdo con el citado informe de la CIDH América tiene el mayor porcentaje de pueblos indígenas en aislamiento o contacto inicial en el mundo (PIACI), en Suramérica hay aproximadamente 200 PIACI con un número estimado de 10.000 personas, según el informe de la Corte muchos pueblos han desaparecido y otros que tienen menos de 255 personas están en peligro de desaparecer. La CIDH estableció como una de las premisas fundamentales el respeto al no contacto y a su elección de permanecer en aislamiento, en este sentido es preciso que:
+        p.mb-5 De acuerdo con el citado informe de la CIDH, América tiene el mayor porcentaje de pueblos indígenas en aislamiento o contacto inicial en el mundo (PIACI), en Suramérica hay aproximadamente 200 PIACI con un número estimado de 10.000 personas, según el informe de la Corte, muchos pueblos han desaparecido y otros que tienen menos de 255 personas están en peligro de desaparecer. La CIDH estableció como una de las premisas fundamentales el respeto al no contacto y a su elección de permanecer en aislamiento, en este sentido es preciso que:
         .tema-1.px-5
           .t1b2
             .bloque-texto-d.color-primario.px-4.pt-0.pb-4
@@ -49,7 +49,7 @@
         figure.mb-0
           img(src='@/assets/curso/tema1/img04.svg') 
     
-    p.mb-5 Como ya se había dicho existe aproximadamente 200 PIACI en las Américas, con una gran diversidad de culturas, lenguas y contextos, estos se encuentran en diferentes países y zonas de frontera, no obstante, de acuerdo con estudios de ACNUHD comparten unas características comunes, como son: 
+    p.mb-5 Como ya se había dicho existe aproximadamente 200 PIACI en las Américas, con una gran diversidad de culturas, lenguas y contextos, estos se encuentran en diferentes países y zonas de frontera, no obstante, de acuerdo con estudios de ACNUDH comparten unas características comunes, como son: 
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-4
@@ -209,7 +209,7 @@
       .col-lg-6
         .mibloque2.bloque-texto-b.color-primario.pt-0.pb-5.mb-5
           .bloque-texto-b__texto
-            p.mb-0 Como lo establece la CIDH el respeto a su territorio y al no contacto son los principios y derechos más importantes para los pueblos PIACI, evitar cualquier agresión o invasión a su territorio y al establecer un contacto no autorizado o no buscado por estas comunidades (Oficina del Alto Comisionado de Derechos Humanos Naciones Unidas-ACNUDH, 2012).
+            p.mb-0 Como lo establece la CIDH el respeto a su territorio y al no contacto son los principios y derechos más importantes para los pueblos PIACI, evitar cualquier agresión o invasión a su territorio y al establecer un contacto no autorizado o no buscado por estas comunidades (Oficina del Alto Comisionado de Derechos Humanos Naciones Unidas - ACNUDH, 2012).
         
         p.mb-0 <b>El derecho al territorio implica el respeto a su medio ambiente, a la no explotación de sus recursos, a la no contaminación de sus afluentes. Actualmente, existe una gran presión sobre los territorios de los pueblos PIACI, por la presencia de grupos armados irregulares, por la expansión de la frontera agrícola, por la construcción de infraestructura como vías que puedan atravesar su territorio, por la explotación de sus recursos madereros y minerales, de igual manera, el impacto del cambio climático amenaza su relación con el medio ambiente. En el caso de la consulta previa con los PIACI, el no contacto ya significa que prevalezca este derecho al territorio y a su medio ambiente (Corte Interamericana de Derechos Humanos - OEA, 2013).</b>
       .col-lg-6.pe-5
@@ -223,14 +223,14 @@
             img(src='@/assets/curso/tema1/img11.svg') 
         .col-lg-8
           div.px-5.py-4(style="background-color: white")
-            p.mb-0 Existen problemas graves de contaminación ambiental, como contaminación con mercurio debido a la minería ilegal, así como la tala indiscriminada de bosques por grupos ilegales. El derecho a su territorio debe implicar también la vigilancia del Estado, para lograr que se respete el no contacto. No invadir su territorio y el no daño al medio ambiente, sea este directo o indirecto. En las zonas colindantes a estas áreas deben establecerse medidas específicas de protección, con el fin de evitar contactos accidentales (Oficina del Alto Comisionado de Derechos Humanos Naciones Unidas-ACNUDH, 2012).
+            p.mb-0 Existen problemas graves de contaminación ambiental, como contaminación con mercurio debido a la minería ilegal, así como la tala indiscriminada de bosques por grupos ilegales. El derecho a su territorio debe implicar también la vigilancia del Estado, para lograr que se respete el no contacto. No invadir su territorio y el no daño al medio ambiente, sea este directo o indirecto. En las zonas colindantes a estas áreas deben establecerse medidas específicas de protección, con el fin de evitar contactos accidentales (Oficina del Alto Comisionado de Derechos Humanos Naciones Unidas - ACNUDH, 2012).
       div(style="position: absolute; z-index:0 ; top: 10%; background-color: #EAAD9B; width: 100%; height: 80%")
         
-    p.mb-5 Con respecto a los territorios de los PIACI, la CIDH establece que se debe realizar la delimitación y titulación de estas tierras, establecer límites con las zonas de amortiguamiento, con la prohibición de realizar actividades que pongan en riesgo o afecten negativamente los territorios de los pueblos PIACI y, tomar medidas para evitar el contacto con estos pueblos por parte de las culturas mayoritarias, salvo en situaciones de excepción que estarán debidamente reguladas por el organismo técnico especializado, en los casos de pueblos indígenas en contacto inicial, estos pueblos son los que deben determinar qué personas pueden entrar en sus tierras o territorios (Oficina del Alto Comisionado de Derechos Humanos Naciones Unidas-ACNUDH, 2012).
+    p.mb-5 Con respecto a los territorios de los PIACI, la CIDH establece que se debe realizar la delimitación y titulación de estas tierras, establecer límites con las zonas de amortiguamiento, con la prohibición de realizar actividades que pongan en riesgo o afecten negativamente los territorios de los pueblos PIACI y, tomar medidas para evitar el contacto con estos pueblos por parte de las culturas mayoritarias, salvo en situaciones de excepción que estarán debidamente reguladas por el organismo técnico especializado, en los casos de pueblos indígenas en contacto inicial, estos pueblos son los que deben determinar qué personas pueden entrar en sus tierras o territorios (Oficina del Alto Comisionado de Derechos Humanos Naciones Unidas - ACNUDH, 2012).
 
     .bloque1.bloque-texto-b.color-acento-contenido.p-4
       .bloque-texto-b__texto
-        p.mb-0 El establecimiento de mecanismos efectivos para garantizar las prohibiciones deben incluir la tipificación penal del delito de contacto forzado con pueblos indígenas en aislamiento, mecanismos que instauren también sistemas efectivos de monitoreo que no puedan forzar contactos, y en los que se impliquen activamente los pueblos indígenas que vivan en la zona colindante (Oficina del Alto Comisionado de Derechos Humanos Naciones Unidas-ACNUDH, 2012).
+        p.mb-0 El establecimiento de mecanismos efectivos para garantizar las prohibiciones deben incluir la tipificación penal del delito de contacto forzado con pueblos indígenas en aislamiento, mecanismos que instauren también sistemas efectivos de monitoreo que no puedan forzar contactos, y en los que se impliquen activamente los pueblos indígenas que vivan en la zona colindante (Oficina del Alto Comisionado de Derechos Humanos Naciones Unidas - ACNUDH, 2012).
         
     Separador
 
@@ -242,7 +242,7 @@
         figure.mb-0
           img(src='@/assets/curso/tema1/img12.svg') 
       .col-lg-7
-        p.mb-0 Conforme a investigaciones de varios centros especializados (Grupo Internacional de Trabajo sobre Asuntos Indígenas – IGWIA), los PIACI se encuentran en pequeñas comunidades indígenas que rehúyen todo contacto con la sociedad moderna y que prefieren vivir en aislamiento, dedicadas a su economía tradicional de subsistencia, contrariamente a la imagen difundida por algunos medios, estos grupos no son los pobladores primogénitos “aún no contactados por la civilización,” sino poblaciones que huyen desde hace generaciones de contactos que para ellos han sido extremadamente violentos y mortíferos, y que les ha llevado a refugiarse en las selvas. Para muchos de estos pueblos el aislamiento no ha sido una opción voluntaria, sino una estrategia de supervivencia (OACNUDH - IWGIA, 2007).
+        p.mb-0 Conforme a investigaciones de varios centros especializados (Grupo Internacional de Trabajo sobre Asuntos Indígenas – IGWIA), los PIACI se encuentran en pequeñas comunidades indígenas que rehúyen todo contacto con la sociedad moderna y que prefieren vivir en aislamiento, dedicadas a su economía tradicional de subsistencia, contrariamente a la imagen difundida por algunos medios, estos grupos no son los pobladores primogénitos “aún no contactados por la civilización”, sino poblaciones que huyen desde hace generaciones de contactos que para ellos han sido extremadamente violentos y mortíferos, y que les ha llevado a refugiarse en las selvas. Para muchos de estos pueblos el aislamiento no ha sido una opción voluntaria, sino una estrategia de supervivencia (OACNUDH - IWGIA, 2007).
             
     .row.align-items-center.justify-content-end.m-0.mb-5(style="background-color: #FEF2DF")                
         .col-lg-7.p-4
@@ -301,11 +301,11 @@
     .row.justify-content-center.mb-5
       .col-lg-10
         .tema-1.cajon.color-secundario.p-4.mb-4
-          h4.mb-0(style="font-weight: bold") El cuidado de la cultura de los pueblos PIACI tiene particular atención y reclama de los Estados mayor cuidado en la evitabilidad del contacto no permitido, dado que estos pueblos al no conocer los códigos, ni conocer lenguaje, ni haber tenido contacto frecuente con la cultura occidental tienen mayor vulnerabilidad y riesgo de daño por otras culturas.
+          h4.mb-0(style="font-weight: bold") El cuidado de la cultura de los pueblos PIACI tiene particular atención y reclama de los Estados, mayor cuidado en la evitabilidad del contacto no permitido, dado que estos pueblos al no conocer los códigos, ni conocer lenguaje, ni haber tenido contacto frecuente con la cultura occidental tienen mayor vulnerabilidad y riesgo de daño por otras culturas.
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-6
-        p.mb-0 Para darle apertura a este tema fundamental que integrará a su vez los temas siguientes en el componente, se invita a consultar los siguientes videos que hacen parte de un diálogo sobre pueblos en contacto inicial y planes de contingencia, y en los cuales se identificará los marcos jurisprudenciales y legales que regulan la protección de derechos de los pueblos indígenas en aislamiento y contacto inicial en Sur América y Colombia, así mismo, reconocer el estado de formulación de  políticas o marcos normativos en la Panamazonía y en Colombia, adicional, reconocer la noción de atención diferenciada y primaria en salud para pueblos indígenas en contacto inicial.
+        p.mb-0 Para darle apertura a este tema fundamental que integrará a su vez los temas siguientes en el componente, se invita a consultar los siguientes videos que hacen parte de un diálogo sobre pueblos en contacto inicial y planes de contingencia, y en los cuales se identificarán los marcos jurisprudenciales y legales que regulan la protección de derechos de los pueblos indígenas en aislamiento y contacto inicial en Sur América y Colombia, así mismo, reconocer el estado de formulación de  políticas o marcos normativos en la Panamazonía y en Colombia, adicional, reconocer la noción de atención diferenciada y primaria en salud para pueblos indígenas en contacto inicial.
       .col-lg-6
         img(src='@/assets/curso/tema1/img20.png') 
 

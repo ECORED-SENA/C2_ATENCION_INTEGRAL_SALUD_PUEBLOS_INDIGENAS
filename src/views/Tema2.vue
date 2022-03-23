@@ -18,7 +18,7 @@
             h2.mb-0 Marco normativo y políticas públicas
           p.mb-4 El marco normativo y de políticas de los pueblos PIACI comparte además del marco de derechos establecido para los pueblos indígenas, uno específico para su protección, reconociendo la autodeterminación de aislamiento voluntario y la protección especial de su territorio y su cultura. A continuación, se podrá conocer estos referentes normativos. 
           
-          a.boton.color-principal.texto-blanco(style="background-color: #F8D345", :href="obtenerLink('/downloads/INFOGRAFIA MARCO.pdf')" target="_blank" type="application/pdf")
+          a.boton.color-principal.texto-blanco(style="background-color: #F8D345", :href="obtenerLink('/downloads/INFOGRAFIA_MARCO.pdf')" target="_blank" type="application/pdf")
             span(style="color: #12263F !important") Descargar
             i.fas.fa-file-download(style="color: #12263F !important")
 
@@ -34,7 +34,7 @@
         figure.mb-5
           img(src='@/assets/curso/tema2/img02.png')   
         h4 Vulnerabilidad social
-        p.mb-0 Tienen menor capacidad de adaptación e interrelación con las culturas mayoritarias, su forma de vida y su cultura está completamente integrada a su territorio, por lo que cambios generados por invasión de este o por contacto forzado, pone en peligro de extinción a estas comunidades. 
+        p.mb-0 Tienen menor capacidad de adaptación e interrelación con las culturas mayoritarias, su forma de vida y su cultura está completamente integrada a su territorio, por lo que, cambios generados por invasión de este o por contacto forzado, pone en peligro de extinción a estas comunidades. 
       .col-lg-4
         figure.mb-5
           img(src='@/assets/curso/tema2/img03.png')   
@@ -63,7 +63,7 @@
         div.p-5(style="background-color: #FFF8F6")
           p.mb-0 <b> Los mecanismos de control y protección se deben dar en su territorio, en la zona colindante y en la zona de amortiguamiento, zonas en las que debe haber un estricto control en la movilización y en las actividades que se realizan de manera directa e indirecta, para prevenir el contacto voluntario o accidental con estas comunidades, así como la contaminación de su hábitat o sus afluentes de agua y a todo su medio ambiente. </b>
 
-    p.mb-5 Se debe realizar un monitoreo integral de todos los aspectos que puedan poner en peligro a los PIACI, incluyendo en el monitoreo a las comunidades de la zona colindante, entre las actividades de monitoreo se encuentran la valoración de las condiciones de salud de las comunidades que vivan cerca a los territorios de los PIACI, monitorear las condiciones del medio ambiente (fauna y flora), los recursos hídricos, el entorno socioeconómico y las actividades que se realicen en la zona colindante, como la realización del proyectos públicos o privados en zonas cercanas al territorio de los PIACI. Entre las actividades de monitoreo también se encuentran: 
+    p.mb-5 Se debe realizar un monitoreo integral de todos los aspectos que puedan poner en peligro a los PIACI, incluyendo en el monitoreo a las comunidades de la zona colindante, entre las actividades de monitoreo se encuentran la valoración de las condiciones de salud de las comunidades que vivan cerca a los territorios de los PIACI, monitorear las condiciones del medio ambiente (fauna y flora), los recursos hídricos, el entorno socioeconómico y las actividades que se realicen en la zona colindante, como la realización de proyectos públicos o privados en zonas cercanas al territorio de los PIACI. Entre las actividades de monitoreo también se encuentran: 
 
     .pasostema2-1.pt-5(:style="{'background-repeat': 'no-repeat', 'background-size': 'contain', 'background-image': `url(${require('@/assets/curso/tema2/img07.svg')})`}")
       .row.justify-content-center.mb-5
@@ -119,7 +119,7 @@
             figure
               img(src='@/assets/curso/tema2/img11.png') 
           .col-lg-8.p-4
-            p.mb-0 <b>Se debe realizar una capacitación en todos los ministerios del gobierno nacional, en las instituciones del orden nacional y territorial, difundiendo el contexto de los derechos, las particularidades y vulnerabilidades de los PIACI, así como de los protocolos y de las prohibiciones que existen respecto a no contacto y no daño. Establecer programas de coordinación y trabajo conjunto entre las acciones que se desarrollen desde el Estado a nivel nacional y local. (Oficina del Alto Comisionado de Derechos Humanos Naciones Unidas-ACNUDH, 2012).</b> 
+            p.mb-0 <b>Se debe realizar una capacitación en todos los ministerios del gobierno nacional, en las instituciones del orden nacional y territorial, difundiendo el contexto de los derechos, las particularidades y vulnerabilidades de los PIACI, así como de los protocolos y de las prohibiciones que existen respecto a no contacto y no daño. Establecer programas de coordinación y trabajo conjunto entre las acciones que se desarrollen desde el Estado a nivel nacional y local. (Oficina del Alto Comisionado de Derechos Humanos Naciones Unidas - ACNUDH, 2012).</b> 
 
     #t_2_3.titulo-segundo.color-secundario
       h2 2.3. Normatividad nacional en salud
@@ -136,8 +136,11 @@
         LineaTiempoE.color-acento-contenido
           div(titulo="Decreto 1953 de 2014" subtitulo="")
             p.mb-0 El Sistema Indígena de Salud Propio Intercultural (SISPI) es el conjunto de políticas, normas, principios, recursos, instituciones y procedimientos que se sustentan a partir de una concepción de vida colectiva, donde la sabiduría ancestral es fundamental para orientar dicho Sistema, en armonía con la madre tierra y según la cosmovisión de cada pueblo, se articula, coordina y complementa con el Sistema General de Seguridad Social en Salud (SGSSS), con el fin de maximizar los logros en salud de los pueblos indígenas. El SISPI se adaptará a la cosmovisión y cosmogonía de cada pueblo indígena en Colombia; ellos definirán su implementación desde la salud propia, la interculturalidad, la gobernabilidad y autonomía en sus territorios.
-          div(titulo="Artículo 75. Principios " subtitulo="")
-            p.mb-0 1. Accesibilidad. 2. Complementariedad terapéutica. 3. Reciprocidad. 4. Interculturalidad.
+          div(titulo="Artículo 75. Principios " subtitulo="")            
+            p.mb-0 1. Accesibilidad. 
+            p.mb-0 2. Complementariedad terapéutica. 
+            p.mb-0 3. Reciprocidad. 
+            p.mb-0 4. Interculturalidad.            
           div(titulo="Artículo 76. Concepto de salud propia " subtitulo="")
             p.mb-0 Es la armonía y el equilibrio de acuerdo con la cosmovisión de cada pueblo indígena, resultado de las relaciones de la persona consigo misma, con la familia, la comunidad y el territorio. 
           div(titulo="Artículo 77. Componentes del Sistema Indígena de Salud Propio Intercultural (SISPI)" subtitulo="")
@@ -278,26 +281,40 @@
               .col-lg-1
                 img(style="width:28px" src='@/assets/curso/tema2/img15.svg')               
               .col-lg-11
-                h4.mb-0 <b>Aportes de los resguardos indígenas, quienes como mínimo aportarán el 10%, excepto aquellos que no reciban recursos del Sistema General de Participaciones o que estos sean insuficientes. </b>
+                h4.mb-0 <b>Aportes de los resguardos indígenas, quienes como mínimo aportarán el 10 %, excepto aquellos que no reciban recursos del Sistema General de Participaciones o que estos sean insuficientes. </b>
 
     .row.justify-content-center.align-items-center
       .col-6
         p.mb-5 Ahora bien, la identificación de la población indígena para la asignación de subsidios se efectuará de conformidad con lo establecido en el Artículo 5º de la Ley 691 de 2001. Es de resaltar que para el caso que la población beneficiaria identificada a través del listado censal no coincida con la población indígena certificada por el DANE, la autoridad territorial lo verificará y validará de manera conjunta con la autoridad tradicional para efectos del registro individual en la base de datos de afiliación al régimen subsidiado (Defensoría del Pueblo, 2014).
         h4.mb-5 Algo para resaltar de la ley y la subsecuente jurisprudencia al respecto es que ha permitido que las comunidades indígenas podrán afiliarse al régimen subsidiado de manera colectiva y preferencialmente a una ARSI (Administradoras Indígenas de Salud), según lo previsto en el Artículo 17 de la Ley 691 de 2001.
         p.mb-0 Para finalizar este tema se invita a consultar los siguientes videos, en los cuales se hace un acercamiento al estado del arte de la normatividad de los pueblos indígenas, así mismo, al Derecho Internacional Humanitario.
-      .col-6.p-5
-        .tema2.p-0.mb-5.px-5
-          .tarjeta-avatar-b.mb-5.mx-3(style="position:relative; height: 100%")
-            .tarjeta-avatar-b__img
-              img(src='@/assets/curso/tema2/img21.svg')    
-            .tarjeta.tarjeta--azul.d-flex.align-items-center
-              h4.p-4.mb-0 Estado del arte de la normatividad de los pueblos indígenas
+      .col-6.p-5        
+          .tema2.p-0.mb-5.px-5
+            a.me-3.indicador__container(
+              href="https://www.youtube.com/watch?v=keep40FMNeI"
+              target="_blank"
+              type="application/pdf"
+              @mouseover="mostrarIndicador = false"
+            )          
+              .indicador--click(v-if="mostrarIndicador")
+              .tarjeta-avatar-b.mb-5.mx-3(style="position:relative; height: 100%")
+                .tarjeta-avatar-b__img
+                  img(src='@/assets/curso/tema2/img21.svg')    
+                .tarjeta.tarjeta--azul.d-flex.align-items-center
+                  h4.p-4.mb-0 Estado del arte de la normatividad de los pueblos indígenas
 
-          .tarjeta-avatar-b.mb-5.mx-3(style="position:relative; height: 100%")
-            .tarjeta-avatar-b__img
-              img(src='@/assets/curso/tema2/img21.svg')    
-            .tarjeta.tarjeta--azul.d-flex.align-items-center
-              h4.p-4.mb-0 Derecho Internacional Humanitario
+            a.me-3.indicador__container(
+              href="https://www.youtube.com/watch?v=hWLgw6c_SVo"
+              target="_blank"
+              type="application/pdf"
+              @mouseover="mostrarIndicador = false"
+            )          
+              .indicador--click(v-if="mostrarIndicador")
+              .tarjeta-avatar-b.mb-5.mx-3(style="position:relative; height: 100%")
+                .tarjeta-avatar-b__img
+                  img(src='@/assets/curso/tema2/img21.svg')    
+                .tarjeta.tarjeta--azul.d-flex.align-items-center
+                  h4.p-4.mb-0 Derecho Internacional Humanitario
 
     Separador
 </template>
@@ -306,7 +323,7 @@
 export default {
   name: 'Tema2',
   data: () => ({
-    // variables de vue
+    mostrarIndicador: true,
   }),
   mounted() {
     this.$nextTick(() => {

@@ -219,7 +219,7 @@ export default {
     subMenu: [
       {
         icono: 'fas fa-sitemap',
-        titulo: 'Sintesis',
+        titulo: 'Síntesis',
         nombreRuta: 'sintesis',
       },
       {
@@ -258,13 +258,13 @@ export default {
   referencias: [
     {
       referencia:
-        'Aguilar-Peña, M., Tobar, M., García-Perdomo, H. (2020) Salud intercultural y el modelo de salud propio indígena.',
+        'Aguilar-Peña, M., Tobar, M., García-Perdomo, H. (2020). Salud intercultural y el modelo de salud propio indígena.',
       link:
         'http://www.scielo.org.co/pdf/rsap/v22n4/0124-0064-rsap-22-04-e187320.pdf',
     },
     {
       referencia:
-        'Anuario de Derecho Constitucional Latinoamericano - Frank Semper (Alemania). (2006) Los derechos de los pueblos indígenas de Colombia en la jurisprudencia de la Corte Constitucional.',
+        'Anuario de Derecho Constitucional Latinoamericano - Frank Semper (Alemania). (2006). Los derechos de los pueblos indígenas de Colombia en la jurisprudencia de la Corte Constitucional.',
       link: 'https://www.corteidh.or.cr/tablas/R21731.pdf',
     },
     {
@@ -372,7 +372,7 @@ export default {
       texto:
         'Decreto 1232 de 2018. [Ministerio del Interior]. Por el cual se adiciona el Capítulo 2, del Título 2, de la Parte 5, del Libro 2 del Decreto 1066 de 2015, Único Reglamentario del Sector Administrativo del Interior, para establecer medidas especiales de prevención y protección de los derechos de los Pueblos Indígenas en Aislamiento o estado natural y se crea y organiza el Sistema Nacional de Prevención y Protección de los derechos de los Pueblos Indígenas en Aislamiento o estado natural. Julio 17 de 2018. ',
       tipo: 'Normatividad',
-      descarga: '/downloads/DECRETO 1232 DEL 17 DE JULIO DE 2018.pdf',
+      descarga: '/downloads/DECRETO_1232_DEL_17_DE_JULIO_DE_2018.pdf',
     },
   ],
   creditos: {

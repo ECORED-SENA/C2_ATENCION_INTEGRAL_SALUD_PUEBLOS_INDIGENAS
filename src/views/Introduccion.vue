@@ -12,7 +12,7 @@
     h3.titulo-tercero ¿Conoces sobre la importancia de los pueblos indígenas en aislamiento y contacto inicial (PIACI)? 
     
     .cajon-intro.py-4.p-3.mb-5
-      p.mb-0 En el siguiente recurso podrá conocer las razones de sobrevivencia y las experiencias traumáticas que han vivido los pueblos indígenas.  
+      p.mb-0 En el siguiente recurso podrás conocer las razones de sobrevivencia y las experiencias traumáticas que han vivido los pueblos indígenas.  
 
     figure.mb-0
       .video        
