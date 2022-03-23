@@ -10,7 +10,7 @@
             img(src="@/assets/template/emparejamiento.svg", alt="Texto que describa la imagen")
       .col-12.col-md-8.col-lg-9
         .titulo-segundo.color-secundario
-          h2  Actividad didáctica 1
+          h2  Atención integral en salud de los pueblos indígenas en aislamiento
         p.mb-4 Objetivo: conceptualizar las bases para la atención integral de los pueblos indígenas en aislamiento.
         .tarjeta.tarjeta--azul.p-3
           .row.justify-content-around.align-items-center            
