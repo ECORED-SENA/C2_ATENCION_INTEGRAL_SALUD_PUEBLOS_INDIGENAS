@@ -32,7 +32,7 @@
     .row.justify-content-center.mb-5
       .col-lg-4
         figure.mb-5
-          img(src='@/assets/curso/tema2/img02.png')   
+          img(src='@/assets/curso/tema2/img101.png')   
         h4 Vulnerabilidad social
         p.mb-0 Tienen menor capacidad de adaptación e interrelación con las culturas mayoritarias, su forma de vida y su cultura está completamente integrada a su territorio, por lo que, cambios generados por invasión de este o por contacto forzado, pone en peligro de extinción a estas comunidades. 
       .col-lg-4
@@ -49,7 +49,7 @@
         p.mb-0 Existen PIACI conformados por 500 individuos o menos, por lo que existe mayor riesgo de su extinción.
       .col-lg-4
         figure.mb-5
-          img(src='@/assets/curso/tema2/img05.png')   
+          img(src='@/assets/curso/tema2/img102.png')   
         h4 Vulnerabilidad epidemiológica
         p.mb-0 Los PIACI no presentan defensas biológicas, ni inmunológicas a muchos patógenos e infecciones.
 
@@ -220,7 +220,7 @@
             h4.mb-0 <b>De acuerdo con los capítulos dos y tres de esta ley, los miembros de los pueblos indígenas en el Sistema General de Seguridad Social en Salud se vinculan como afiliados al régimen subsidiado, excepto en los siguientes casos: </b>
       .col-lg-1
       .col-lg-2
-        img(src='@/assets/curso/tema2/img16.svg')               
+        img(src='@/assets/curso/tema2/img103.svg')               
       .col-lg-2
     
     p.mb-5 Los pueblos indígenas tienen acceso a los planes y programas del Sistema General de Seguridad Social en Salud: 
@@ -242,7 +242,7 @@
           .col-lg-1
             img(src='@/assets/curso/tema2/img15.svg')               
           .col-lg-5
-            h4.mb-0 Plan de Atención Básica: PAB
+            h4.mb-0 Plan de intervenciones colectivas: PIC
           .col-lg-1
             img(src='@/assets/curso/tema2/img15.svg')               
           .col-lg-5
@@ -257,7 +257,7 @@
     div.mb-0.border(:style="{'background-color': '#E5E3D5','background-repeat': 'no-repeat', 'background-size': 'contain', 'background-image': `url(${require('@/assets/curso/tema2/img19.svg')})`}")
       .row.justify-content-center.mb-0.py-5      
         .col-lg-10.p-5
-          p.mb-0 <b>El PAB para pueblos indígenas se caracteriza porque su ejecución es gratuita, debe ser concertado con las entidades territoriales, aplicando los procesos de consulta y concertación legalmente establecidos, orientados a la adecuación etnocultural de las acciones que se incluyan en el PAB. </b>
+          p.mb-0 <b>El PIC para pueblos indígenas se caracteriza porque su ejecución es gratuita, debe ser concertado con las entidades territoriales, aplicando los procesos de consulta y concertación legalmente establecidos, orientados a la adecuación etnocultural de las acciones que se incluyan en el PIC (Plan de Intervenciones colectivas). </b>
     
     div.mt-0.mb-5.p-4(:style="{'background-repeat': 'no-repeat', 'background-size': 'cover', 'background-image': `url(${require('@/assets/curso/tema2/img20.png')})`}")
       p.mb-5 La prestación de los servicios de salud que se ofrece a los pueblos indígenas está exenta de cobro de cuotas moderadoras y copagos. Pues los recursos que sostienen la afiliación de los pueblos indígenas al Régimen Subsidiado de Salud son: 

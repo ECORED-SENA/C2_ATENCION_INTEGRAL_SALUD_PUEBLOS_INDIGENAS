@@ -22,9 +22,9 @@
 
     div.pt-5(:style="{'background-position': '0% -70px', 'background-size': '100% 130%', 'background-repeat': 'no-repeat', 'background-image': `url(${require('@/assets/curso/tema1/img02.png')})`}")
       .row.justify-content-center
-        .col-lg-6
+        .col-lg-12
           figure.mb-5
-            img(src='@/assets/curso/tema1/img03.svg') 
+            img(src='@/assets/curso/tema1/img100.svg') 
         
       
     .row.justify-content-center.mb-5
@@ -70,7 +70,7 @@
           .row.justify-content-center
             .col-lg-5.pe-0
               figure.mb-0
-                img(src='@/assets/curso/tema1/img07.png') 
+                img(src='@/assets/curso/tema1/img101.png') 
             .col-lg-6.d-flex.align-items-center.p-0(style="background: rgba(254,231,197,0.2)")
               div.p-4
                 p.mb-0 Son pueblos que no conocen el funcionamiento de la sociedad mayoritaria, y que por lo tanto se encuentran en una situación de indefensión y extrema vulnerabilidad ante los diversos actores que tratan de acercarse a ellos, o que tratan de acompañar su proceso de relación con el resto de la sociedad, como en el caso de los pueblos en contacto inicial.
@@ -249,7 +249,7 @@
           p.mb-0 <b>La denominación de PIACI reúne una gran diversidad de pueblos</b> indígenas que han tomado la decisión de permanecer en aislamiento en su territorio y evitando el contacto con otras culturas, el respeto a no <b>contacto es el principio</b> fundamental y el estudio de su forma de vida solo puede realizarse de manera indirecta. Estas culturas recogen un saber y unas tradiciones totalmente vinculadas a su territorio, tienen un conocimiento profundo de la vegetación y de su hábitat, lo que les ha permitido vivir en el bosque y garantizar su seguridad alimentaria, así como el mantenimiento de su salud. <br>En varios estudios se ha demostrado que en muchos contactos, las culturas mayoritarias han sido nocivas, la cultura occidental pone en riesgo la sobrevivencia de estos pueblos, por lo que es considerada peligrosa. 
         .col-lg-5.p-0
           figure.mb-0
-            img(src='@/assets/curso/tema1/img13.png')         
+            img(src='@/assets/curso/tema1/img102.png')         
 
     p.mb-5 El derecho a la protección de su identidad y a su cultura se encuentran protegidos por el marco normativo y de política nacional e internacional, entre otros derechos culturales establecidos se puede mencionar los siguientes:      
           
