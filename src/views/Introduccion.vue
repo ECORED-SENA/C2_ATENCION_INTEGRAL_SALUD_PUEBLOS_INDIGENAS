@@ -15,8 +15,8 @@
       p.mb-0 En el siguiente recurso podrás conocer las razones de sobrevivencia y las experiencias traumáticas que han vivido los pueblos indígenas.  
 
     figure.mb-0
-      .video        
-        iframe(width="1255" height="706" src="https://www.youtube.com/embed/Vg3-gqLQZnQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      .video         
+        iframe(width="1255" height="706" src="https://www.youtube.com/embed/oiTDz1qMJQU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       
     Separador
 </template>
